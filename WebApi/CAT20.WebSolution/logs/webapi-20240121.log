@@ -1,0 +1,29 @@
+2024-01-21 11:33:31.524 +05:30  INF  User profile is available. Using '/home/thusitha/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-01-21 11:33:32.409 +05:30  INF  Now listening on: http://localhost:5000
+2024-01-21 11:33:32.434 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2024-01-21 11:33:32.435 +05:30  INF  Hosting environment: Development
+2024-01-21 11:33:32.436 +05:30  INF  Content root path: /home/thusitha/Documents/DevelopmentAutority/Main-QA/cat2020-dev-backend/WebApi/CAT20.WebSolution/CAT20.WebApi
+2024-01-21 11:33:33.316 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2024-01-21 11:33:34.066 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 759.6543ms
+2024-01-21 11:33:34.072 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - -
+2024-01-21 11:33:34.076 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+2024-01-21 11:33:34.077 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - -
+2024-01-21 11:33:34.165 +05:30  INF  Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-01-21 11:33:34.165 +05:30  INF  Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-01-21 11:33:34.166 +05:30  INF  Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-01-21 11:33:34.194 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - - - 200 1061536 application/javascript 121.9812ms
+2024-01-21 11:33:34.195 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 200 312163 application/javascript 118.7920ms
+2024-01-21 11:33:34.203 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - - - 200 144929 text/css 116.5494ms
+2024-01-21 11:33:36.267 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2024-01-21 11:33:39.356 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 3088.6729ms
+2024-01-21 12:23:33.333 +05:30  INF  Application is shutting down...
+2024-01-21 12:23:33.362 +05:30  INF  Stopped cleanly
+2024-01-21 18:35:51.141 +05:30  INF  User profile is available. Using '/home/thusitha/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-01-21 18:35:52.252 +05:30  INF  Now listening on: http://localhost:5000
+2024-01-21 18:35:52.259 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2024-01-21 18:35:52.261 +05:30  INF  Hosting environment: Development
+2024-01-21 18:35:52.262 +05:30  INF  Content root path: /home/thusitha/Documents/DevelopmentAutority/Main-QA/cat2020-dev-backend/WebApi/CAT20.WebSolution/CAT20.WebApi
+2024-01-21 18:35:52.820 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2024-01-21 18:35:53.412 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 596.2584ms
+2024-01-21 19:02:43.271 +05:30  INF  Application is shutting down...
+2024-01-21 19:02:43.340 +05:30  INF  Stopped cleanly

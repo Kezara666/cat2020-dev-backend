@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Models\AssessmentTaxN\**" />
+    <EmbeddedResource Remove="Models\AssessmentTaxN\**" />
+    <None Remove="Models\AssessmentTaxN\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Repositories\IBizObjectBase.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Models\HRM\PersonalFile\ServiceTypeData.cs~RF1cdfc1ea.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.7" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CAT20.Common\CAT20.Common.csproj" />
+  </ItemGroup>
+
+</Project>

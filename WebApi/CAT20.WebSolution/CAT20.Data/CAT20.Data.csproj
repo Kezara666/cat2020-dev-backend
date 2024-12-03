@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Configurations\**" />
+    <Compile Remove="Migrations\**" />
+    <EmbeddedResource Remove="Configurations\**" />
+    <EmbeddedResource Remove="Migrations\**" />
+    <None Remove="Configurations\**" />
+    <None Remove="Migrations\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Repositories\RepositoryBaseNew.cs" />
+    <Compile Remove="ShopRentalDb\20240115125858_ShopUpdatedMig.cs" />
+    <Compile Remove="ShopRentalDb\20240115125858_ShopUpdatedMig.Designer.cs" />
+    <Compile Remove="ShopRentalDb\20240115161031_ShopUpdatedMig.cs" />
+    <Compile Remove="ShopRentalDb\20240115161031_ShopUpdatedMig.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CAT20.Common\CAT20.Common.csproj" />
+    <ProjectReference Include="..\CAT20.Core\CAT20.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ControlDb\" />
+    <Folder Include="HRMDb\" />
+    <Folder Include="MixinDb\" />
+    <Folder Include="OnlineDb\" />
+    <Folder Include="OnlinePaymentDb\" />
+    <Folder Include="ShopRentalDb\" />
+    <Folder Include="VoteAccDb\" />
+    <Folder Include="WaterBillingDb\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CompareNETObjects" Version="4.83.0" />
+  </ItemGroup>
+
+</Project>

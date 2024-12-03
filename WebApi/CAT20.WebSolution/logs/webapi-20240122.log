@@ -1,0 +1,1036 @@
+2024-01-22 00:06:29.858 +05:30  INF  User profile is available. Using '/home/thusitha/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-01-22 00:06:30.886 +05:30  INF  Now listening on: http://localhost:5000
+2024-01-22 00:06:30.893 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2024-01-22 00:06:30.894 +05:30  INF  Hosting environment: Development
+2024-01-22 00:06:30.894 +05:30  INF  Content root path: /home/thusitha/Documents/DevelopmentAutority/Main-QA/cat2020-dev-backend/WebApi/CAT20.WebSolution/CAT20.WebApi
+2024-01-22 00:06:31.352 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2024-01-22 00:06:32.850 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 1508.5746ms
+2024-01-22 00:06:32.865 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - -
+2024-01-22 00:06:32.872 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - -
+2024-01-22 00:06:32.876 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+2024-01-22 00:06:32.969 +05:30  INF  Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-01-22 00:06:32.970 +05:30  INF  Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-01-22 00:06:32.970 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - - - 200 144929 text/css 105.5314ms
+2024-01-22 00:06:32.971 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - - - 200 1061536 application/javascript 98.2842ms
+2024-01-22 00:06:32.972 +05:30  INF  Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-01-22 00:06:32.974 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 200 312163 application/javascript 97.4434ms
+2024-01-22 00:06:34.724 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2024-01-22 00:06:36.499 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1774.8272ms
+2024-01-22 01:22:30.261 +05:30  INF  Application is shutting down...
+2024-01-22 01:22:30.360 +05:30  INF  Stopped cleanly
+2024-01-22 15:19:41.119 +05:30  INF  User profile is available. Using '/home/thusitha/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-01-22 15:19:44.005 +05:30  INF  Now listening on: http://localhost:5000
+2024-01-22 15:19:44.011 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2024-01-22 15:19:44.011 +05:30  INF  Hosting environment: Development
+2024-01-22 15:19:44.011 +05:30  INF  Content root path: /home/thusitha/Documents/DevelopmentAutority/Main-QA/cat2020-dev-backend/WebApi/CAT20.WebSolution/CAT20.WebApi
+2024-01-22 15:19:44.935 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2024-01-22 15:19:45.433 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 503.0495ms
+2024-01-22 15:19:45.463 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - -
+2024-01-22 15:19:45.467 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - -
+2024-01-22 15:19:45.515 +05:30  INF  Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-01-22 15:19:45.516 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - - - 200 312163 application/javascript 52.7538ms
+2024-01-22 15:19:45.554 +05:30  INF  Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-01-22 15:19:45.569 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - - - 200 1061536 application/javascript 102.2595ms
+2024-01-22 15:19:46.933 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2024-01-22 15:19:49.132 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 2198.6133ms
+2024-01-22 15:19:57.941 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/Offices/getById/173 - -
+2024-01-22 15:19:58.024 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/0/2/0/0/0/110 - -
+2024-01-22 15:19:58.026 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/finalaccount/commitment/getAllCommitments - -
+2024-01-22 15:19:58.043 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:19:58.048 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:19:58.048 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/0/2/0/0/0/110 - - - 204 - - 24.3076ms
+2024-01-22 15:19:58.050 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:19:58.051 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/Offices/getById/173 - - - 204 - - 109.7469ms
+2024-01-22 15:19:58.059 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/finalaccount/commitment/getAllCommitments - - - 204 - - 32.2509ms
+2024-01-22 15:19:58.099 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/Offices/getById/173 application/json -
+2024-01-22 15:19:58.099 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/finalaccount/commitment/getAllCommitments application/json -
+2024-01-22 15:19:58.099 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/0/2/0/0/0/110 application/json -
+2024-01-22 15:19:58.121 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:19:58.126 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:19:58.126 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:19:58.134 +05:30  INF  Executing endpoint 'CAT20.WebApi.Controllers.FinalAccount.CommitmentController.GetAll (CAT20.WebApi)'
+2024-01-22 15:19:58.209 +05:30  INF  Route matched with {action = "GetAll", controller = "Commitment"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CAT20.WebApi.Resources.FinalAccount.CommitmentResource]] GetAll() on controller CAT20.WebApi.Controllers.FinalAccount.CommitmentController (CAT20.WebApi).
+2024-01-22 15:19:58.952 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi)'
+2024-01-22 15:19:58.952 +05:30  INF  Executing endpoint 'CAT20.WebApi.Controllers.Control.OfficesController.GetById (CAT20.WebApi)'
+2024-01-22 15:19:58.980 +05:30  INF  Route matched with {action = "GetById", controller = "Offices"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CAT20.WebApi.Resources.Control.OfficeResource]] GetById(Int32) on controller CAT20.WebApi.Controllers.Control.OfficesController (CAT20.WebApi).
+2024-01-22 15:19:58.980 +05:30  INF  Route matched with {action = "getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId", controller = "VoteDetails"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.VoteDetail]]] getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId(Int32, Int32, Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.VoteDetailsController (CAT20.WebApi).
+2024-01-22 15:20:07.731 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.Core.Models.FinalAccount.Commitment, CAT20.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:20:08.044 +05:30  INF  Executed action CAT20.WebApi.Controllers.FinalAccount.CommitmentController.GetAll (CAT20.WebApi) in 9813.2766ms
+2024-01-22 15:20:08.055 +05:30  INF  Executed endpoint 'CAT20.WebApi.Controllers.FinalAccount.CommitmentController.GetAll (CAT20.WebApi)'
+2024-01-22 15:20:08.095 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/finalaccount/commitment/getAllCommitments application/json - - 200 2 application/json;+charset=utf-8 9996.7237ms
+2024-01-22 15:20:08.137 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.VoteDetailResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:20:08.143 +05:30  INF  Executed action CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi) in 9162.6722ms
+2024-01-22 15:20:08.143 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi)'
+2024-01-22 15:20:08.153 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/0/2/0/0/0/110 application/json - - 200 2 application/json;+charset=utf-8 10054.2592ms
+2024-01-22 15:20:08.205 +05:30  INF  Executing OkObjectResult, writing value of type 'CAT20.WebApi.Resources.Control.OfficeResource'.
+2024-01-22 15:20:08.276 +05:30  INF  Executed action CAT20.WebApi.Controllers.Control.OfficesController.GetById (CAT20.WebApi) in 9295.5373ms
+2024-01-22 15:20:08.276 +05:30  INF  Executed endpoint 'CAT20.WebApi.Controllers.Control.OfficesController.GetById (CAT20.WebApi)'
+2024-01-22 15:20:08.284 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/Offices/getById/173 application/json - - 200 196 application/json;+charset=utf-8 10185.1704ms
+2024-01-22 15:20:11.248 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - -
+2024-01-22 15:20:11.248 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:20:11.249 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - - - 204 - - 0.6323ms
+2024-01-22 15:20:11.254 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json -
+2024-01-22 15:20:11.258 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:20:11.264 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:20:11.270 +05:30  INF  Route matched with {action = "GetAllProgrammesForSabhaId", controller = "Programmes"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Programme]]] GetAllProgrammesForSabhaId(Int32) on controller CAT20.Api.Controllers.ProgrammesController (CAT20.WebApi).
+2024-01-22 15:20:12.629 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProgrammeResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:20:12.640 +05:30  INF  Executed action CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi) in 1369.9503ms
+2024-01-22 15:20:12.641 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:20:12.641 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json - - 200 2 application/json;+charset=utf-8 1387.1046ms
+2024-01-22 15:20:31.743 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/saveProgramme - -
+2024-01-22 15:20:31.743 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:20:31.743 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/saveProgramme - - - 204 - - 0.5338ms
+2024-01-22 15:20:31.746 +05:30  INF  Request starting HTTP/1.1 POST http://localhost:5000/api/vote/programmes/saveProgramme application/json 97
+2024-01-22 15:20:31.752 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:20:31.753 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProgrammesController.CreateProgramme (CAT20.WebApi)'
+2024-01-22 15:20:31.759 +05:30  INF  Route matched with {action = "CreateProgramme", controller = "Programmes"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CAT20.WebApi.Resources.Vote.ProgrammeResource]] CreateProgramme(CAT20.WebApi.Resources.Vote.Save.SaveProgrammeResource) on controller CAT20.Api.Controllers.ProgrammesController (CAT20.WebApi).
+2024-01-22 15:20:33.744 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - -
+2024-01-22 15:20:33.744 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:20:33.744 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - - - 204 - - 0.4091ms
+2024-01-22 15:20:33.747 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json -
+2024-01-22 15:20:33.747 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:20:33.748 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:20:33.748 +05:30  INF  Route matched with {action = "GetAllProgrammesForSabhaId", controller = "Programmes"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Programme]]] GetAllProgrammesForSabhaId(Int32) on controller CAT20.Api.Controllers.ProgrammesController (CAT20.WebApi).
+2024-01-22 15:20:34.666 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProgrammeResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:20:34.667 +05:30  INF  Executed action CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi) in 918.6943ms
+2024-01-22 15:20:34.668 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:20:34.668 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json - - 200 2 application/json;+charset=utf-8 921.2872ms
+2024-01-22 15:20:35.157 +05:30  INF  Executing OkObjectResult, writing value of type 'CAT20.WebApi.Resources.Vote.ProgrammeResource'.
+2024-01-22 15:20:35.163 +05:30  INF  Executed action CAT20.Api.Controllers.ProgrammesController.CreateProgramme (CAT20.WebApi) in 3403.3909ms
+2024-01-22 15:20:35.163 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProgrammesController.CreateProgramme (CAT20.WebApi)'
+2024-01-22 15:20:35.163 +05:30  INF  Request finished HTTP/1.1 POST http://localhost:5000/api/vote/programmes/saveProgramme application/json 97 - 200 104 application/json;+charset=utf-8 3416.7089ms
+2024-01-22 15:20:43.268 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - -
+2024-01-22 15:20:43.269 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:20:43.270 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - - - 204 - - 1.5772ms
+2024-01-22 15:20:43.274 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json -
+2024-01-22 15:20:43.274 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:20:43.280 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:20:43.281 +05:30  INF  Route matched with {action = "GetAllProgrammesForSabhaId", controller = "Programmes"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Programme]]] GetAllProgrammesForSabhaId(Int32) on controller CAT20.Api.Controllers.ProgrammesController (CAT20.WebApi).
+2024-01-22 15:20:44.459 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProgrammeResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:20:44.490 +05:30  INF  Executed action CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi) in 1209.4727ms
+2024-01-22 15:20:44.491 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:20:44.492 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json - - 200 106 application/json;+charset=utf-8 1217.9076ms
+2024-01-22 15:20:47.936 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/1/0/110 - -
+2024-01-22 15:20:47.937 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:20:47.937 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/1/0/110 - - - 204 - - 0.8188ms
+2024-01-22 15:20:47.944 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/1/0/110 application/json -
+2024-01-22 15:20:47.949 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:20:47.950 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:20:47.955 +05:30  INF  Route matched with {action = "GetAllWithIncomeTitleByProgrammeClassificationCategoryId", controller = "IncomeTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeTitle]]] GetAllWithIncomeTitleByProgrammeClassificationCategoryId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeTitlesController (CAT20.WebApi).
+2024-01-22 15:20:49.150 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeTitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:20:49.161 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi) in 1205.8552ms
+2024-01-22 15:20:49.161 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:20:49.162 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/1/0/110 application/json - - 200 2 application/json;+charset=utf-8 1218.2331ms
+2024-01-22 15:20:49.411 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/0/110 - -
+2024-01-22 15:20:49.415 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:20:49.416 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/0/110 - - - 204 - - 4.5945ms
+2024-01-22 15:20:49.434 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/0/110 application/json -
+2024-01-22 15:20:49.435 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:20:49.436 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:20:49.436 +05:30  INF  Route matched with {action = "GetAllWithIncomeTitleByProgrammeClassificationCategoryId", controller = "IncomeTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeTitle]]] GetAllWithIncomeTitleByProgrammeClassificationCategoryId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeTitlesController (CAT20.WebApi).
+2024-01-22 15:20:50.595 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeTitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:20:50.601 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi) in 1164.3508ms
+2024-01-22 15:20:50.601 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:20:50.603 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/0/110 application/json - - 200 2 application/json;+charset=utf-8 1169.7756ms
+2024-01-22 15:20:54.096 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 - -
+2024-01-22 15:20:54.097 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:20:54.097 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 - - - 204 - - 0.3693ms
+2024-01-22 15:20:54.101 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 application/json -
+2024-01-22 15:20:54.102 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:20:54.103 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:20:54.103 +05:30  INF  Route matched with {action = "GetAllWithIncomeTitleByProgrammeClassificationCategoryId", controller = "IncomeTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeTitle]]] GetAllWithIncomeTitleByProgrammeClassificationCategoryId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeTitlesController (CAT20.WebApi).
+2024-01-22 15:20:55.264 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeTitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:20:55.268 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi) in 1164.8153ms
+2024-01-22 15:20:55.268 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:20:55.269 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 application/json - - 200 2 application/json;+charset=utf-8 1167.0802ms
+2024-01-22 15:21:09.809 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/saveIncomeTitle - -
+2024-01-22 15:21:09.810 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:21:09.811 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/saveIncomeTitle - - - 204 - - 1.3484ms
+2024-01-22 15:21:09.818 +05:30  INF  Request starting HTTP/1.1 POST http://localhost:5000/api/vote/incomeTitle/saveIncomeTitle application/json 159
+2024-01-22 15:21:09.818 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:21:09.822 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeTitlesController.CreateIncomeTitle (CAT20.WebApi)'
+2024-01-22 15:21:09.838 +05:30  INF  Route matched with {action = "CreateIncomeTitle", controller = "IncomeTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CAT20.WebApi.Resources.Vote.IncomeTitleResource]] CreateIncomeTitle(CAT20.WebApi.Resources.Vote.Save.SaveIncomeTitleResource) on controller CAT20.Api.Controllers.IncomeTitlesController (CAT20.WebApi).
+2024-01-22 15:21:12.511 +05:30  INF  Executing OkObjectResult, writing value of type 'null'.
+2024-01-22 15:21:12.512 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeTitlesController.CreateIncomeTitle (CAT20.WebApi) in 2672.9677ms
+2024-01-22 15:21:12.512 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeTitlesController.CreateIncomeTitle (CAT20.WebApi)'
+2024-01-22 15:21:12.512 +05:30  INF  Request finished HTTP/1.1 POST http://localhost:5000/api/vote/incomeTitle/saveIncomeTitle application/json 159 - 204 0 - 2693.9800ms
+2024-01-22 15:21:12.516 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 - -
+2024-01-22 15:21:12.516 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:21:12.516 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 - - - 204 - - 0.3017ms
+2024-01-22 15:21:12.519 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 application/json -
+2024-01-22 15:21:12.519 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:21:12.520 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:21:12.520 +05:30  INF  Route matched with {action = "GetAllWithIncomeTitleByProgrammeClassificationCategoryId", controller = "IncomeTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeTitle]]] GetAllWithIncomeTitleByProgrammeClassificationCategoryId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeTitlesController (CAT20.WebApi).
+2024-01-22 15:21:13.736 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeTitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:21:13.737 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi) in 1216.8195ms
+2024-01-22 15:21:13.737 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:21:13.738 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 application/json - - 200 2 application/json;+charset=utf-8 1218.8764ms
+2024-01-22 15:21:18.964 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - -
+2024-01-22 15:21:18.964 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:21:18.965 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - - - 204 - - 0.4094ms
+2024-01-22 15:21:18.969 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json -
+2024-01-22 15:21:18.970 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:21:18.971 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:21:18.971 +05:30  INF  Route matched with {action = "GetAllProgrammesForSabhaId", controller = "Programmes"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Programme]]] GetAllProgrammesForSabhaId(Int32) on controller CAT20.Api.Controllers.ProgrammesController (CAT20.WebApi).
+2024-01-22 15:21:20.110 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProgrammeResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:21:20.114 +05:30  INF  Executed action CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi) in 1142.8355ms
+2024-01-22 15:21:20.114 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:21:20.115 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json - - 200 106 application/json;+charset=utf-8 1145.4178ms
+2024-01-22 15:21:22.608 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/0/110 - -
+2024-01-22 15:21:22.609 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:21:22.609 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/0/110 - - - 204 - - 1.5497ms
+2024-01-22 15:21:22.634 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/0/110 application/json -
+2024-01-22 15:21:22.635 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:21:22.637 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:21:22.637 +05:30  INF  Route matched with {action = "GetAllWithIncomeTitleByProgrammeClassificationCategoryId", controller = "IncomeTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeTitle]]] GetAllWithIncomeTitleByProgrammeClassificationCategoryId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeTitlesController (CAT20.WebApi).
+2024-01-22 15:21:22.643 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/0/0/110 - -
+2024-01-22 15:21:22.643 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:21:22.647 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/0/0/110 - - - 204 - - 0.8877ms
+2024-01-22 15:21:22.665 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/0/0/110 application/json -
+2024-01-22 15:21:22.675 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:21:22.676 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi)'
+2024-01-22 15:21:22.684 +05:30  INF  Route matched with {action = "GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId", controller = "IncomeSubtitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeSubtitle]]] GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeSubtitlesController (CAT20.WebApi).
+2024-01-22 15:21:23.794 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeTitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:21:23.796 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi) in 1158.6826ms
+2024-01-22 15:21:23.796 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:21:23.797 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/0/110 application/json - - 200 2 application/json;+charset=utf-8 1162.7392ms
+2024-01-22 15:21:23.888 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeSubtitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:21:23.892 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi) in 1207.1141ms
+2024-01-22 15:21:23.892 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi)'
+2024-01-22 15:21:23.892 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/0/0/110 application/json - - 200 2 application/json;+charset=utf-8 1227.1429ms
+2024-01-22 15:21:25.093 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 - -
+2024-01-22 15:21:25.094 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:21:25.095 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 - - - 204 - - 2.4247ms
+2024-01-22 15:21:25.101 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/4/0/110 - -
+2024-01-22 15:21:25.102 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:21:25.105 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/4/0/110 - - - 204 - - 2.8577ms
+2024-01-22 15:21:25.123 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 application/json -
+2024-01-22 15:21:25.124 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:21:25.124 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/4/0/110 application/json -
+2024-01-22 15:21:25.124 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:21:25.126 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi)'
+2024-01-22 15:21:25.126 +05:30  INF  Route matched with {action = "GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId", controller = "IncomeSubtitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeSubtitle]]] GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeSubtitlesController (CAT20.WebApi).
+2024-01-22 15:21:25.127 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:21:25.128 +05:30  INF  Route matched with {action = "GetAllWithIncomeTitleByProgrammeClassificationCategoryId", controller = "IncomeTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeTitle]]] GetAllWithIncomeTitleByProgrammeClassificationCategoryId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeTitlesController (CAT20.WebApi).
+2024-01-22 15:21:26.033 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeTitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:21:26.034 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi) in 905.6787ms
+2024-01-22 15:21:26.034 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:21:26.034 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 application/json - - 200 2 application/json;+charset=utf-8 910.7987ms
+2024-01-22 15:21:26.324 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeSubtitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:21:26.327 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi) in 1201.3987ms
+2024-01-22 15:21:26.329 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi)'
+2024-01-22 15:21:26.332 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/4/0/110 application/json - - 200 2 application/json;+charset=utf-8 1206.6089ms
+2024-01-22 15:22:42.189 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - -
+2024-01-22 15:22:42.189 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:22:42.190 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - - - 204 - - 1.0446ms
+2024-01-22 15:22:42.201 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json -
+2024-01-22 15:22:42.202 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:22:42.203 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:22:42.204 +05:30  INF  Route matched with {action = "GetAllProgrammesForSabhaId", controller = "Programmes"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Programme]]] GetAllProgrammesForSabhaId(Int32) on controller CAT20.Api.Controllers.ProgrammesController (CAT20.WebApi).
+2024-01-22 15:22:43.354 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProgrammeResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:22:43.358 +05:30  INF  Executed action CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi) in 1153.962ms
+2024-01-22 15:22:43.360 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:22:43.361 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json - - 200 106 application/json;+charset=utf-8 1159.9373ms
+2024-01-22 15:22:44.392 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json -
+2024-01-22 15:22:44.392 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:22:44.393 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:22:44.394 +05:30  INF  Route matched with {action = "GetAllProgrammesForSabhaId", controller = "Programmes"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Programme]]] GetAllProgrammesForSabhaId(Int32) on controller CAT20.Api.Controllers.ProgrammesController (CAT20.WebApi).
+2024-01-22 15:22:45.569 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProgrammeResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:22:45.571 +05:30  INF  Executed action CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi) in 1176.8948ms
+2024-01-22 15:22:45.571 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:22:45.572 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json - - 200 106 application/json;+charset=utf-8 1179.8300ms
+2024-01-22 15:22:47.803 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - -
+2024-01-22 15:22:47.803 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:22:47.803 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - - - 204 - - 0.3799ms
+2024-01-22 15:22:47.806 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json -
+2024-01-22 15:22:47.806 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:22:47.807 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:22:47.807 +05:30  INF  Route matched with {action = "GetAllProgrammesForSabhaId", controller = "Programmes"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Programme]]] GetAllProgrammesForSabhaId(Int32) on controller CAT20.Api.Controllers.ProgrammesController (CAT20.WebApi).
+2024-01-22 15:22:48.955 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProgrammeResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:22:48.956 +05:30  INF  Executed action CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi) in 1148.7967ms
+2024-01-22 15:22:48.956 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:22:48.956 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json - - 200 106 application/json;+charset=utf-8 1150.3810ms
+2024-01-22 15:22:59.110 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 - -
+2024-01-22 15:22:59.111 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:22:59.111 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 - - - 204 - - 1.1329ms
+2024-01-22 15:22:59.114 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 application/json -
+2024-01-22 15:22:59.118 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:22:59.119 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProjectsController.GetAllProjectsForProgrammeId (CAT20.WebApi)'
+2024-01-22 15:22:59.130 +05:30  INF  Route matched with {action = "GetAllProjectsForProgrammeId", controller = "Projects"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Project]]] GetAllProjectsForProgrammeId(Int32) on controller CAT20.Api.Controllers.ProjectsController (CAT20.WebApi).
+2024-01-22 15:23:00.369 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProjectResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:23:00.375 +05:30  INF  Executed action CAT20.Api.Controllers.ProjectsController.GetAllProjectsForProgrammeId (CAT20.WebApi) in 1245.16ms
+2024-01-22 15:23:00.376 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProjectsController.GetAllProjectsForProgrammeId (CAT20.WebApi)'
+2024-01-22 15:23:00.377 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 application/json - - 200 2 application/json;+charset=utf-8 1262.8905ms
+2024-01-22 15:23:14.344 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/projects/saveProject - -
+2024-01-22 15:23:14.344 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:23:14.345 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/projects/saveProject - - - 204 - - 0.9523ms
+2024-01-22 15:23:14.354 +05:30  INF  Request starting HTTP/1.1 POST http://localhost:5000/api/vote/projects/saveProject application/json 115
+2024-01-22 15:23:14.357 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:23:14.359 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProjectsController.CreateProject (CAT20.WebApi)'
+2024-01-22 15:23:14.372 +05:30  INF  Route matched with {action = "CreateProject", controller = "Projects"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CAT20.WebApi.Resources.Vote.ProjectResource]] CreateProject(CAT20.WebApi.Resources.Vote.Save.SaveProjectResource) on controller CAT20.Api.Controllers.ProjectsController (CAT20.WebApi).
+2024-01-22 15:23:15.351 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 - -
+2024-01-22 15:23:15.351 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:23:15.352 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 - - - 204 - - 1.6475ms
+2024-01-22 15:23:15.365 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 application/json -
+2024-01-22 15:23:15.365 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:23:15.369 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProjectsController.GetAllProjectsForProgrammeId (CAT20.WebApi)'
+2024-01-22 15:23:15.369 +05:30  INF  Route matched with {action = "GetAllProjectsForProgrammeId", controller = "Projects"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Project]]] GetAllProjectsForProgrammeId(Int32) on controller CAT20.Api.Controllers.ProjectsController (CAT20.WebApi).
+2024-01-22 15:23:16.289 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProjectResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:23:16.290 +05:30  INF  Executed action CAT20.Api.Controllers.ProjectsController.GetAllProjectsForProgrammeId (CAT20.WebApi) in 921.2066ms
+2024-01-22 15:23:16.291 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProjectsController.GetAllProjectsForProgrammeId (CAT20.WebApi)'
+2024-01-22 15:23:16.292 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 application/json - - 200 2 application/json;+charset=utf-8 926.8809ms
+2024-01-22 15:23:16.852 +05:30  INF  Executing OkObjectResult, writing value of type 'CAT20.WebApi.Resources.Vote.ProjectResource'.
+2024-01-22 15:23:16.866 +05:30  INF  Executed action CAT20.Api.Controllers.ProjectsController.CreateProject (CAT20.WebApi) in 2494.5588ms
+2024-01-22 15:23:16.866 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProjectsController.CreateProject (CAT20.WebApi)'
+2024-01-22 15:23:16.867 +05:30  INF  Request finished HTTP/1.1 POST http://localhost:5000/api/vote/projects/saveProject application/json 115 - 200 122 application/json;+charset=utf-8 2512.2324ms
+2024-01-22 15:23:37.736 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/balancesheetTitles/getAllBalancesheetTitlesByClassificationMainLedgerAccountId/0/0/110 - -
+2024-01-22 15:23:37.738 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:23:37.739 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/balancesheetTitles/getAllBalancesheetTitlesByClassificationMainLedgerAccountId/0/0/110 - - - 204 - - 3.1696ms
+2024-01-22 15:23:37.742 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/balancesheetTitles/getAllBalancesheetTitlesByClassificationMainLedgerAccountId/0/0/110 application/json -
+2024-01-22 15:23:37.749 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:23:37.750 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.BalancesheetTitlesController.GetAllWithBalancesheetTitleByClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:23:37.761 +05:30  INF  Route matched with {action = "GetAllWithBalancesheetTitleByClassificationCategoryId", controller = "BalancesheetTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.BalancesheetTitle]]] GetAllWithBalancesheetTitleByClassificationCategoryId(Int32, Int32, Int32) on controller CAT20.Api.Controllers.BalancesheetTitlesController (CAT20.WebApi).
+2024-01-22 15:23:38.143 +05:30  INF  balancesheetTitles controller called 
+2024-01-22 15:23:38.150 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.BalancesheetTitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:23:38.151 +05:30  INF  Executed action CAT20.Api.Controllers.BalancesheetTitlesController.GetAllWithBalancesheetTitleByClassificationCategoryId (CAT20.WebApi) in 389.6638ms
+2024-01-22 15:23:38.151 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.BalancesheetTitlesController.GetAllWithBalancesheetTitleByClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:23:38.151 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/balancesheetTitles/getAllBalancesheetTitlesByClassificationMainLedgerAccountId/0/0/110 application/json - - 200 2 application/json;+charset=utf-8 409.5378ms
+2024-01-22 15:24:50.808 +05:30  INF  Application is shutting down...
+2024-01-22 15:24:50.865 +05:30  INF  Stopped cleanly
+2024-01-22 15:48:30.389 +05:30  INF  User profile is available. Using '/home/thusitha/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-01-22 15:48:31.245 +05:30  INF  Now listening on: http://localhost:5000
+2024-01-22 15:48:31.257 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2024-01-22 15:48:31.258 +05:30  INF  Hosting environment: Development
+2024-01-22 15:48:31.258 +05:30  INF  Content root path: /home/thusitha/Documents/DevelopmentAutority/Main-QA/cat2020-dev-backend/WebApi/CAT20.WebSolution/CAT20.WebApi
+2024-01-22 15:48:31.916 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2024-01-22 15:48:32.648 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 741.9842ms
+2024-01-22 15:49:12.697 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - -
+2024-01-22 15:49:12.845 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:49:12.851 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - - - 204 - - 154.4483ms
+2024-01-22 15:49:12.864 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json -
+2024-01-22 15:49:12.876 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:49:13.272 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:49:13.315 +05:30  INF  Route matched with {action = "GetAllProgrammesForSabhaId", controller = "Programmes"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Programme]]] GetAllProgrammesForSabhaId(Int32) on controller CAT20.Api.Controllers.ProgrammesController (CAT20.WebApi).
+2024-01-22 15:49:20.280 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProgrammeResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:49:20.578 +05:30  INF  Executed action CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi) in 7252.0897ms
+2024-01-22 15:49:20.585 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:49:20.627 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json - - 200 2 application/json;+charset=utf-8 7763.3121ms
+2024-01-22 15:49:34.651 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/saveProgramme - -
+2024-01-22 15:49:34.654 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:49:34.655 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/saveProgramme - - - 204 - - 3.2664ms
+2024-01-22 15:49:34.661 +05:30  INF  Request starting HTTP/1.1 POST http://localhost:5000/api/vote/programmes/saveProgramme application/json 100
+2024-01-22 15:49:34.664 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:49:34.666 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProgrammesController.CreateProgramme (CAT20.WebApi)'
+2024-01-22 15:49:34.671 +05:30  INF  Route matched with {action = "CreateProgramme", controller = "Programmes"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CAT20.WebApi.Resources.Vote.ProgrammeResource]] CreateProgramme(CAT20.WebApi.Resources.Vote.Save.SaveProgrammeResource) on controller CAT20.Api.Controllers.ProgrammesController (CAT20.WebApi).
+2024-01-22 15:49:36.654 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - -
+2024-01-22 15:49:36.655 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:49:36.655 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - - - 204 - - 1.1848ms
+2024-01-22 15:49:36.662 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json -
+2024-01-22 15:49:36.662 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:49:36.672 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:49:36.673 +05:30  INF  Route matched with {action = "GetAllProgrammesForSabhaId", controller = "Programmes"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Programme]]] GetAllProgrammesForSabhaId(Int32) on controller CAT20.Api.Controllers.ProgrammesController (CAT20.WebApi).
+2024-01-22 15:49:37.260 +05:30  INF  Executing OkObjectResult, writing value of type 'CAT20.WebApi.Resources.Vote.ProgrammeResource'.
+2024-01-22 15:49:37.293 +05:30  INF  Executed action CAT20.Api.Controllers.ProgrammesController.CreateProgramme (CAT20.WebApi) in 2621.2805ms
+2024-01-22 15:49:37.293 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProgrammesController.CreateProgramme (CAT20.WebApi)'
+2024-01-22 15:49:37.295 +05:30  INF  Request finished HTTP/1.1 POST http://localhost:5000/api/vote/programmes/saveProgramme application/json 100 - 200 107 application/json;+charset=utf-8 2633.9343ms
+2024-01-22 15:49:38.545 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProgrammeResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:49:38.563 +05:30  INF  Executed action CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi) in 1890.0955ms
+2024-01-22 15:49:38.563 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:49:38.564 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json - - 200 109 application/json;+charset=utf-8 1902.1459ms
+2024-01-22 15:49:40.270 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json -
+2024-01-22 15:49:40.270 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:49:40.271 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:49:40.271 +05:30  INF  Route matched with {action = "GetAllProgrammesForSabhaId", controller = "Programmes"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Programme]]] GetAllProgrammesForSabhaId(Int32) on controller CAT20.Api.Controllers.ProgrammesController (CAT20.WebApi).
+2024-01-22 15:49:41.221 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProgrammeResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:49:41.226 +05:30  INF  Executed action CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi) in 955.1684ms
+2024-01-22 15:49:41.227 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:49:41.228 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json - - 200 109 application/json;+charset=utf-8 958.3681ms
+2024-01-22 15:49:43.168 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/0/110 - -
+2024-01-22 15:49:43.169 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:49:43.170 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/0/110 - - - 204 - - 1.9764ms
+2024-01-22 15:49:43.184 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/0/110 application/json -
+2024-01-22 15:49:43.207 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:49:43.210 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:49:43.222 +05:30  INF  Route matched with {action = "GetAllWithIncomeTitleByProgrammeClassificationCategoryId", controller = "IncomeTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeTitle]]] GetAllWithIncomeTitleByProgrammeClassificationCategoryId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeTitlesController (CAT20.WebApi).
+2024-01-22 15:49:44.319 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeTitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:49:44.322 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi) in 1099.8338ms
+2024-01-22 15:49:44.323 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:49:44.324 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/0/110 application/json - - 200 2 application/json;+charset=utf-8 1140.2809ms
+2024-01-22 15:49:45.432 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 - -
+2024-01-22 15:49:45.433 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:49:45.434 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 - - - 204 - - 1.7265ms
+2024-01-22 15:49:45.446 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 application/json -
+2024-01-22 15:49:45.446 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:49:45.448 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:49:45.448 +05:30  INF  Route matched with {action = "GetAllWithIncomeTitleByProgrammeClassificationCategoryId", controller = "IncomeTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeTitle]]] GetAllWithIncomeTitleByProgrammeClassificationCategoryId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeTitlesController (CAT20.WebApi).
+2024-01-22 15:49:46.402 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeTitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:49:46.406 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi) in 958.2066ms
+2024-01-22 15:49:46.407 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:49:46.407 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 application/json - - 200 2 application/json;+charset=utf-8 961.2450ms
+2024-01-22 15:49:54.824 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/saveIncomeTitle - -
+2024-01-22 15:49:54.824 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:49:54.824 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/saveIncomeTitle - - - 204 - - 0.4074ms
+2024-01-22 15:49:54.826 +05:30  INF  Request starting HTTP/1.1 POST http://localhost:5000/api/vote/incomeTitle/saveIncomeTitle application/json 162
+2024-01-22 15:49:54.827 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:49:54.827 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeTitlesController.CreateIncomeTitle (CAT20.WebApi)'
+2024-01-22 15:49:54.834 +05:30  INF  Route matched with {action = "CreateIncomeTitle", controller = "IncomeTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CAT20.WebApi.Resources.Vote.IncomeTitleResource]] CreateIncomeTitle(CAT20.WebApi.Resources.Vote.Save.SaveIncomeTitleResource) on controller CAT20.Api.Controllers.IncomeTitlesController (CAT20.WebApi).
+2024-01-22 15:49:56.977 +05:30  INF  Executing OkObjectResult, writing value of type 'null'.
+2024-01-22 15:49:56.977 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeTitlesController.CreateIncomeTitle (CAT20.WebApi) in 2142.2389ms
+2024-01-22 15:49:56.977 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeTitlesController.CreateIncomeTitle (CAT20.WebApi)'
+2024-01-22 15:49:56.977 +05:30  INF  Request finished HTTP/1.1 POST http://localhost:5000/api/vote/incomeTitle/saveIncomeTitle application/json 162 - 204 0 - 2150.5295ms
+2024-01-22 15:49:56.981 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 - -
+2024-01-22 15:49:56.981 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:49:56.981 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 - - - 204 - - 0.4315ms
+2024-01-22 15:49:56.983 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 application/json -
+2024-01-22 15:49:56.984 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:49:56.984 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:49:56.984 +05:30  INF  Route matched with {action = "GetAllWithIncomeTitleByProgrammeClassificationCategoryId", controller = "IncomeTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeTitle]]] GetAllWithIncomeTitleByProgrammeClassificationCategoryId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeTitlesController (CAT20.WebApi).
+2024-01-22 15:49:57.892 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeTitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:49:57.893 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi) in 908.4587ms
+2024-01-22 15:49:57.893 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:49:57.894 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 application/json - - 200 2 application/json;+charset=utf-8 910.2554ms
+2024-01-22 15:50:01.690 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - -
+2024-01-22 15:50:01.691 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:01.691 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - - - 204 - - 0.5561ms
+2024-01-22 15:50:01.696 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json -
+2024-01-22 15:50:01.696 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:01.697 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:50:01.697 +05:30  INF  Route matched with {action = "GetAllProgrammesForSabhaId", controller = "Programmes"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Programme]]] GetAllProgrammesForSabhaId(Int32) on controller CAT20.Api.Controllers.ProgrammesController (CAT20.WebApi).
+2024-01-22 15:50:02.638 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProgrammeResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:50:02.639 +05:30  INF  Executed action CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi) in 942.5137ms
+2024-01-22 15:50:02.640 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:50:02.642 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json - - 200 109 application/json;+charset=utf-8 946.2628ms
+2024-01-22 15:50:05.264 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/0/0/110 - -
+2024-01-22 15:50:05.264 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/0/110 - -
+2024-01-22 15:50:05.266 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:05.267 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/0/110 - - - 204 - - 3.1045ms
+2024-01-22 15:50:05.269 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/0/110 application/json -
+2024-01-22 15:50:05.270 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:05.271 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:50:05.271 +05:30  INF  Route matched with {action = "GetAllWithIncomeTitleByProgrammeClassificationCategoryId", controller = "IncomeTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeTitle]]] GetAllWithIncomeTitleByProgrammeClassificationCategoryId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeTitlesController (CAT20.WebApi).
+2024-01-22 15:50:05.273 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:05.273 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/0/0/110 - - - 204 - - 9.4066ms
+2024-01-22 15:50:05.276 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/0/0/110 application/json -
+2024-01-22 15:50:05.276 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:05.277 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi)'
+2024-01-22 15:50:05.287 +05:30  INF  Route matched with {action = "GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId", controller = "IncomeSubtitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeSubtitle]]] GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeSubtitlesController (CAT20.WebApi).
+2024-01-22 15:50:06.220 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeTitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:50:06.227 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi) in 954.5308ms
+2024-01-22 15:50:06.228 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:50:06.230 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/0/110 application/json - - 200 2 application/json;+charset=utf-8 959.7115ms
+2024-01-22 15:50:07.124 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 - -
+2024-01-22 15:50:07.125 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:07.129 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 - - - 204 - - 5.0854ms
+2024-01-22 15:50:07.145 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 application/json -
+2024-01-22 15:50:07.145 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:07.147 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/4/0/110 - -
+2024-01-22 15:50:07.150 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:50:07.153 +05:30  INF  Route matched with {action = "GetAllWithIncomeTitleByProgrammeClassificationCategoryId", controller = "IncomeTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeTitle]]] GetAllWithIncomeTitleByProgrammeClassificationCategoryId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeTitlesController (CAT20.WebApi).
+2024-01-22 15:50:07.170 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:07.171 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/4/0/110 - - - 204 - - 24.0468ms
+2024-01-22 15:50:07.174 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeSubtitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:50:07.177 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/4/0/110 application/json -
+2024-01-22 15:50:07.178 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:07.178 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi) in 1891.1296ms
+2024-01-22 15:50:07.178 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi)'
+2024-01-22 15:50:07.179 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/0/0/110 application/json - - 200 2 application/json;+charset=utf-8 1902.5736ms
+2024-01-22 15:50:07.179 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi)'
+2024-01-22 15:50:07.179 +05:30  INF  Route matched with {action = "GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId", controller = "IncomeSubtitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeSubtitle]]] GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeSubtitlesController (CAT20.WebApi).
+2024-01-22 15:50:07.978 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeTitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:50:07.978 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi) in 822.202ms
+2024-01-22 15:50:07.978 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:50:07.978 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 application/json - - 200 2 application/json;+charset=utf-8 833.9532ms
+2024-01-22 15:50:08.170 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeSubtitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:50:08.172 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi) in 992.6761ms
+2024-01-22 15:50:08.173 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi)'
+2024-01-22 15:50:08.175 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/4/0/110 application/json - - 200 2 application/json;+charset=utf-8 997.1124ms
+2024-01-22 15:50:17.645 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeSubtitle/saveIncomeSubtitle - -
+2024-01-22 15:50:17.645 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:17.645 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeSubtitle/saveIncomeSubtitle - - - 204 - - 0.3598ms
+2024-01-22 15:50:17.648 +05:30  INF  Request starting HTTP/1.1 POST http://localhost:5000/api/vote/incomeSubtitle/saveIncomeSubtitle application/json 102
+2024-01-22 15:50:17.648 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:17.649 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeSubtitlesController.CreateIncomeSubtitle (CAT20.WebApi)'
+2024-01-22 15:50:17.653 +05:30  INF  Route matched with {action = "CreateIncomeSubtitle", controller = "IncomeSubtitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CAT20.WebApi.Resources.Vote.IncomeSubtitleResource]] CreateIncomeSubtitle(CAT20.WebApi.Resources.Vote.Save.SaveIncomeSubtitleResource) on controller CAT20.Api.Controllers.IncomeSubtitlesController (CAT20.WebApi).
+2024-01-22 15:50:19.552 +05:30  INF  Executing OkObjectResult, writing value of type 'CAT20.WebApi.Resources.Vote.IncomeSubtitleResource'.
+2024-01-22 15:50:19.570 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeSubtitlesController.CreateIncomeSubtitle (CAT20.WebApi) in 1916.5016ms
+2024-01-22 15:50:19.570 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeSubtitlesController.CreateIncomeSubtitle (CAT20.WebApi)'
+2024-01-22 15:50:19.570 +05:30  INF  Request finished HTTP/1.1 POST http://localhost:5000/api/vote/incomeSubtitle/saveIncomeSubtitle application/json 102 - 200 192 application/json;+charset=utf-8 1922.4510ms
+2024-01-22 15:50:19.575 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 - -
+2024-01-22 15:50:19.575 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:19.576 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 - - - 204 - - 0.3987ms
+2024-01-22 15:50:19.578 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleId/0 - -
+2024-01-22 15:50:19.579 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:19.579 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleId/0 - - - 204 - - 0.3377ms
+2024-01-22 15:50:19.579 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 application/json -
+2024-01-22 15:50:19.579 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:19.580 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:50:19.580 +05:30  INF  Route matched with {action = "GetAllWithIncomeTitleByProgrammeClassificationCategoryId", controller = "IncomeTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeTitle]]] GetAllWithIncomeTitleByProgrammeClassificationCategoryId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeTitlesController (CAT20.WebApi).
+2024-01-22 15:50:19.581 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 application/json -
+2024-01-22 15:50:19.582 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:19.582 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:50:19.582 +05:30  INF  Route matched with {action = "GetAllWithIncomeTitleByProgrammeClassificationCategoryId", controller = "IncomeTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeTitle]]] GetAllWithIncomeTitleByProgrammeClassificationCategoryId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeTitlesController (CAT20.WebApi).
+2024-01-22 15:50:19.583 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/4/0/110 - -
+2024-01-22 15:50:19.583 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:19.583 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/4/0/110 - - - 204 - - 0.3226ms
+2024-01-22 15:50:19.586 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/4/0/110 application/json -
+2024-01-22 15:50:19.586 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:19.587 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleId/0 application/json -
+2024-01-22 15:50:19.587 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:19.587 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi)'
+2024-01-22 15:50:19.587 +05:30  INF  Route matched with {action = "GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId", controller = "IncomeSubtitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeSubtitle]]] GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeSubtitlesController (CAT20.WebApi).
+2024-01-22 15:50:19.587 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleId (CAT20.WebApi)'
+2024-01-22 15:50:19.592 +05:30  INF  Route matched with {action = "GetAllIncomeSubTitlesForTitleId", controller = "IncomeSubtitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeSubtitle]]] GetAllIncomeSubTitlesForTitleId(Int32) on controller CAT20.Api.Controllers.IncomeSubtitlesController (CAT20.WebApi).
+2024-01-22 15:50:20.418 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeTitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:50:20.420 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi) in 837.6101ms
+2024-01-22 15:50:20.421 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:50:20.422 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 application/json - - 200 2 application/json;+charset=utf-8 840.2083ms
+2024-01-22 15:50:20.489 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeTitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:50:20.490 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi) in 909.6243ms
+2024-01-22 15:50:20.490 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:50:20.490 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/0/2/4/110 application/json - - 200 2 application/json;+charset=utf-8 911.0853ms
+2024-01-22 15:50:21.212 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeSubtitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:50:21.212 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleId (CAT20.WebApi) in 1620.0083ms
+2024-01-22 15:50:21.213 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleId (CAT20.WebApi)'
+2024-01-22 15:50:21.213 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleId/0 application/json - - 200 2 application/json;+charset=utf-8 1626.6425ms
+2024-01-22 15:50:21.241 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeSubtitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:50:21.246 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi) in 1658.9571ms
+2024-01-22 15:50:21.249 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi)'
+2024-01-22 15:50:21.250 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/4/0/110 application/json - - 200 2 application/json;+charset=utf-8 1664.2218ms
+2024-01-22 15:50:36.861 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - -
+2024-01-22 15:50:36.862 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:36.862 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - - - 204 - - 0.4435ms
+2024-01-22 15:50:36.865 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json -
+2024-01-22 15:50:36.865 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:36.866 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:50:36.866 +05:30  INF  Route matched with {action = "GetAllProgrammesForSabhaId", controller = "Programmes"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Programme]]] GetAllProgrammesForSabhaId(Int32) on controller CAT20.Api.Controllers.ProgrammesController (CAT20.WebApi).
+2024-01-22 15:50:37.654 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProgrammeResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:50:37.662 +05:30  INF  Executed action CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi) in 796.0525ms
+2024-01-22 15:50:37.663 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:50:37.665 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json - - 200 109 application/json;+charset=utf-8 798.8225ms
+2024-01-22 15:50:39.060 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 - -
+2024-01-22 15:50:39.062 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:39.062 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 - - - 204 - - 2.8449ms
+2024-01-22 15:50:39.079 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 application/json -
+2024-01-22 15:50:39.100 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:39.101 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProjectsController.GetAllProjectsForProgrammeId (CAT20.WebApi)'
+2024-01-22 15:50:39.114 +05:30  INF  Route matched with {action = "GetAllProjectsForProgrammeId", controller = "Projects"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Project]]] GetAllProjectsForProgrammeId(Int32) on controller CAT20.Api.Controllers.ProjectsController (CAT20.WebApi).
+2024-01-22 15:50:40.010 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProjectResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:50:40.017 +05:30  INF  Executed action CAT20.Api.Controllers.ProjectsController.GetAllProjectsForProgrammeId (CAT20.WebApi) in 903.1213ms
+2024-01-22 15:50:40.018 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProjectsController.GetAllProjectsForProgrammeId (CAT20.WebApi)'
+2024-01-22 15:50:40.018 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 application/json - - 200 2 application/json;+charset=utf-8 938.8704ms
+2024-01-22 15:50:48.006 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/projects/saveProject - -
+2024-01-22 15:50:48.006 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:48.006 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/projects/saveProject - - - 204 - - 0.2759ms
+2024-01-22 15:50:48.009 +05:30  INF  Request starting HTTP/1.1 POST http://localhost:5000/api/vote/projects/saveProject application/json 119
+2024-01-22 15:50:48.009 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:48.010 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProjectsController.CreateProject (CAT20.WebApi)'
+2024-01-22 15:50:48.017 +05:30  INF  Route matched with {action = "CreateProject", controller = "Projects"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CAT20.WebApi.Resources.Vote.ProjectResource]] CreateProject(CAT20.WebApi.Resources.Vote.Save.SaveProjectResource) on controller CAT20.Api.Controllers.ProjectsController (CAT20.WebApi).
+2024-01-22 15:50:49.014 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 - -
+2024-01-22 15:50:49.014 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:49.015 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 - - - 204 - - 1.7742ms
+2024-01-22 15:50:49.025 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 application/json -
+2024-01-22 15:50:49.026 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:49.029 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProjectsController.GetAllProjectsForProgrammeId (CAT20.WebApi)'
+2024-01-22 15:50:49.030 +05:30  INF  Route matched with {action = "GetAllProjectsForProgrammeId", controller = "Projects"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Project]]] GetAllProjectsForProgrammeId(Int32) on controller CAT20.Api.Controllers.ProjectsController (CAT20.WebApi).
+2024-01-22 15:50:49.748 +05:30  INF  Executing OkObjectResult, writing value of type 'CAT20.WebApi.Resources.Vote.ProjectResource'.
+2024-01-22 15:50:49.779 +05:30  INF  Executed action CAT20.Api.Controllers.ProjectsController.CreateProject (CAT20.WebApi) in 1762.0131ms
+2024-01-22 15:50:49.780 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProjectsController.CreateProject (CAT20.WebApi)'
+2024-01-22 15:50:49.780 +05:30  INF  Request finished HTTP/1.1 POST http://localhost:5000/api/vote/projects/saveProject application/json 119 - 200 126 application/json;+charset=utf-8 1771.1728ms
+2024-01-22 15:50:49.914 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProjectResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:50:49.916 +05:30  INF  Executed action CAT20.Api.Controllers.ProjectsController.GetAllProjectsForProgrammeId (CAT20.WebApi) in 886.0549ms
+2024-01-22 15:50:49.916 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProjectsController.GetAllProjectsForProgrammeId (CAT20.WebApi)'
+2024-01-22 15:50:49.917 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 application/json - - 200 128 application/json;+charset=utf-8 891.8478ms
+2024-01-22 15:50:52.547 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - -
+2024-01-22 15:50:52.547 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:52.547 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - - - 204 - - 0.3849ms
+2024-01-22 15:50:52.549 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json -
+2024-01-22 15:50:52.550 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:52.550 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:50:52.550 +05:30  INF  Route matched with {action = "GetAllProgrammesForSabhaId", controller = "Programmes"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Programme]]] GetAllProgrammesForSabhaId(Int32) on controller CAT20.Api.Controllers.ProgrammesController (CAT20.WebApi).
+2024-01-22 15:50:53.395 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProgrammeResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:50:53.397 +05:30  INF  Executed action CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi) in 846.9188ms
+2024-01-22 15:50:53.400 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:50:53.400 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json - - 200 109 application/json;+charset=utf-8 850.9515ms
+2024-01-22 15:50:54.409 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/subProject/getAllSubProjectsForProgrammeId/1 - -
+2024-01-22 15:50:54.409 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:54.409 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/subProject/getAllSubProjectsForProgrammeId/1 - - - 204 - - 0.3672ms
+2024-01-22 15:50:54.415 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 - -
+2024-01-22 15:50:54.415 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:54.415 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 - - - 204 - - 0.3426ms
+2024-01-22 15:50:54.415 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/subProject/getAllSubProjectsForProgrammeId/1 application/json -
+2024-01-22 15:50:54.419 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 application/json -
+2024-01-22 15:50:54.419 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:54.420 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProjectsController.GetAllProjectsForProgrammeId (CAT20.WebApi)'
+2024-01-22 15:50:54.420 +05:30  INF  Route matched with {action = "GetAllProjectsForProgrammeId", controller = "Projects"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Project]]] GetAllProjectsForProgrammeId(Int32) on controller CAT20.Api.Controllers.ProjectsController (CAT20.WebApi).
+2024-01-22 15:50:54.427 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:50:54.429 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.SubProjectsController.getAllSubProjectsForProgrammeId (CAT20.WebApi)'
+2024-01-22 15:50:54.444 +05:30  INF  Route matched with {action = "getAllSubProjectsForProgrammeId", controller = "SubProjects"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.SubProject]]] getAllSubProjectsForProgrammeId(Int32) on controller CAT20.Api.Controllers.SubProjectsController (CAT20.WebApi).
+2024-01-22 15:50:55.456 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProjectResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:50:55.461 +05:30  INF  Executed action CAT20.Api.Controllers.ProjectsController.GetAllProjectsForProgrammeId (CAT20.WebApi) in 1040.7071ms
+2024-01-22 15:50:55.464 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProjectsController.GetAllProjectsForProgrammeId (CAT20.WebApi)'
+2024-01-22 15:50:55.466 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 application/json - - 200 128 application/json;+charset=utf-8 1047.1198ms
+2024-01-22 15:50:55.573 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.SubProjectResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:50:55.576 +05:30  INF  Executed action CAT20.Api.Controllers.SubProjectsController.getAllSubProjectsForProgrammeId (CAT20.WebApi) in 1132.2487ms
+2024-01-22 15:50:55.579 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.SubProjectsController.getAllSubProjectsForProgrammeId (CAT20.WebApi)'
+2024-01-22 15:50:55.579 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/subProject/getAllSubProjectsForProgrammeId/1 application/json - - 200 2 application/json;+charset=utf-8 1163.7987ms
+2024-01-22 15:51:05.015 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/subProject/savesubproject - -
+2024-01-22 15:51:05.015 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:51:05.015 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/subProject/savesubproject - - - 204 - - 0.3222ms
+2024-01-22 15:51:05.017 +05:30  INF  Request starting HTTP/1.1 POST http://localhost:5000/api/vote/subProject/savesubproject application/json 131
+2024-01-22 15:51:05.017 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:51:05.018 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.SubProjectsController.CreateSubProject (CAT20.WebApi)'
+2024-01-22 15:51:05.024 +05:30  INF  Route matched with {action = "CreateSubProject", controller = "SubProjects"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CAT20.WebApi.Resources.Vote.SubProjectResource]] CreateSubProject(CAT20.WebApi.Resources.Vote.Save.SaveSubProjectResource) on controller CAT20.Api.Controllers.SubProjectsController (CAT20.WebApi).
+2024-01-22 15:51:06.023 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/subProject/getAllSubProjectsForProgrammeId/1 - -
+2024-01-22 15:51:06.024 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:51:06.024 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/subProject/getAllSubProjectsForProgrammeId/1 - - - 204 - - 1.2672ms
+2024-01-22 15:51:06.036 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/subProject/getAllSubProjectsForProgrammeId/1 application/json -
+2024-01-22 15:51:06.037 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:51:06.040 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.SubProjectsController.getAllSubProjectsForProgrammeId (CAT20.WebApi)'
+2024-01-22 15:51:06.041 +05:30  INF  Route matched with {action = "getAllSubProjectsForProgrammeId", controller = "SubProjects"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.SubProject]]] getAllSubProjectsForProgrammeId(Int32) on controller CAT20.Api.Controllers.SubProjectsController (CAT20.WebApi).
+2024-01-22 15:51:06.676 +05:30  INF  Executing OkObjectResult, writing value of type 'CAT20.WebApi.Resources.Vote.SubProjectResource'.
+2024-01-22 15:51:06.695 +05:30  INF  Executed action CAT20.Api.Controllers.SubProjectsController.CreateSubProject (CAT20.WebApi) in 1670.5769ms
+2024-01-22 15:51:06.695 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.SubProjectsController.CreateSubProject (CAT20.WebApi)'
+2024-01-22 15:51:06.695 +05:30  INF  Request finished HTTP/1.1 POST http://localhost:5000/api/vote/subProject/savesubproject application/json 131 - 200 153 application/json;+charset=utf-8 1678.1281ms
+2024-01-22 15:51:06.873 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.SubProjectResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:51:06.874 +05:30  INF  Executed action CAT20.Api.Controllers.SubProjectsController.getAllSubProjectsForProgrammeId (CAT20.WebApi) in 832.8095ms
+2024-01-22 15:51:06.874 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.SubProjectsController.getAllSubProjectsForProgrammeId (CAT20.WebApi)'
+2024-01-22 15:51:06.876 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/subProject/getAllSubProjectsForProgrammeId/1 application/json - - 200 155 application/json;+charset=utf-8 839.8590ms
+2024-01-22 15:51:09.911 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/balancesheetTitles/getAllBalancesheetTitlesByClassificationMainLedgerAccountId/0/0/110 - -
+2024-01-22 15:51:09.911 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:51:09.911 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/balancesheetTitles/getAllBalancesheetTitlesByClassificationMainLedgerAccountId/0/0/110 - - - 204 - - 0.3593ms
+2024-01-22 15:51:09.915 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/balancesheetTitles/getAllBalancesheetTitlesByClassificationMainLedgerAccountId/0/0/110 application/json -
+2024-01-22 15:51:09.927 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:51:09.928 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.BalancesheetTitlesController.GetAllWithBalancesheetTitleByClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:51:09.935 +05:30  INF  Route matched with {action = "GetAllWithBalancesheetTitleByClassificationCategoryId", controller = "BalancesheetTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.BalancesheetTitle]]] GetAllWithBalancesheetTitleByClassificationCategoryId(Int32, Int32, Int32) on controller CAT20.Api.Controllers.BalancesheetTitlesController (CAT20.WebApi).
+2024-01-22 15:51:10.198 +05:30  INF  balancesheetTitles controller called 
+2024-01-22 15:51:10.219 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.BalancesheetTitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:51:10.222 +05:30  INF  Executed action CAT20.Api.Controllers.BalancesheetTitlesController.GetAllWithBalancesheetTitleByClassificationCategoryId (CAT20.WebApi) in 286.1519ms
+2024-01-22 15:51:10.224 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.BalancesheetTitlesController.GetAllWithBalancesheetTitleByClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:51:10.224 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/balancesheetTitles/getAllBalancesheetTitlesByClassificationMainLedgerAccountId/0/0/110 application/json - - 200 2 application/json;+charset=utf-8 309.0800ms
+2024-01-22 15:51:15.812 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/balancesheetTitles/getAllBalancesheetTitlesByClassificationMainLedgerAccountId/4/0/110 - -
+2024-01-22 15:51:15.812 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:51:15.812 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/balancesheetTitles/getAllBalancesheetTitlesByClassificationMainLedgerAccountId/4/0/110 - - - 204 - - 0.4155ms
+2024-01-22 15:51:15.815 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/balancesheetTitles/getAllBalancesheetTitlesByClassificationMainLedgerAccountId/4/0/110 application/json -
+2024-01-22 15:51:15.815 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:51:15.816 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.BalancesheetTitlesController.GetAllWithBalancesheetTitleByClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:51:15.816 +05:30  INF  Route matched with {action = "GetAllWithBalancesheetTitleByClassificationCategoryId", controller = "BalancesheetTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.BalancesheetTitle]]] GetAllWithBalancesheetTitleByClassificationCategoryId(Int32, Int32, Int32) on controller CAT20.Api.Controllers.BalancesheetTitlesController (CAT20.WebApi).
+2024-01-22 15:51:16.099 +05:30  INF  balancesheetTitles controller called 
+2024-01-22 15:51:16.736 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.BalancesheetTitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:51:16.736 +05:30  INF  Executed action CAT20.Api.Controllers.BalancesheetTitlesController.GetAllWithBalancesheetTitleByClassificationCategoryId (CAT20.WebApi) in 920.1228ms
+2024-01-22 15:51:16.737 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.BalancesheetTitlesController.GetAllWithBalancesheetTitleByClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 15:51:16.738 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/balancesheetTitles/getAllBalancesheetTitlesByClassificationMainLedgerAccountId/4/0/110 application/json - - 200 2 application/json;+charset=utf-8 923.2731ms
+2024-01-22 15:51:32.347 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/voteDetail/getAllVoteDetailBySabhaId/110 - -
+2024-01-22 15:51:32.347 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:51:32.347 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/voteDetail/getAllVoteDetailBySabhaId/110 - - - 204 - - 0.3637ms
+2024-01-22 15:51:32.348 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/Offices/getAllOfficesForSabhaId/110 - -
+2024-01-22 15:51:32.351 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:51:32.351 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/AccountDetails/getAllAccountDetailsForOfficeId/110 - -
+2024-01-22 15:51:32.351 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/Offices/getAllOfficesForSabhaId/110 - - - 204 - - 3.6167ms
+2024-01-22 15:51:32.352 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:51:32.352 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/AccountDetails/getAllAccountDetailsForOfficeId/110 - - - 204 - - 0.3882ms
+2024-01-22 15:51:32.352 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/mixin/voteAssignments/getAllForSabhaId/110 - -
+2024-01-22 15:51:32.352 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:51:32.352 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/voteDetail/getAllVoteDetailBySabhaId/110 application/json -
+2024-01-22 15:51:32.352 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/mixin/voteAssignments/getAllForSabhaId/110 - - - 204 - - 0.4154ms
+2024-01-22 15:51:32.361 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:51:32.361 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/AccountDetails/getAllAccountDetailsForOfficeId/110 application/json -
+2024-01-22 15:51:32.361 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/Offices/getAllOfficesForSabhaId/110 application/json -
+2024-01-22 15:51:32.364 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:51:32.365 +05:30  INF  Executing endpoint 'CAT20.WebApi.Controllers.Control.OfficesController.getAllOfficesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:51:32.365 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:51:32.366 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.AccountDetailsController.GetAllAccountDetailByOfficeId (CAT20.WebApi)'
+2024-01-22 15:51:32.371 +05:30  INF  Route matched with {action = "getAllOfficesForSabhaId", controller = "Offices"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Control.Office]]] getAllOfficesForSabhaId(Int32) on controller CAT20.WebApi.Controllers.Control.OfficesController (CAT20.WebApi).
+2024-01-22 15:51:32.371 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.VoteDetailsController.GetAllVoteDetailBySabhaId (CAT20.WebApi)'
+2024-01-22 15:51:32.379 +05:30  INF  Route matched with {action = "GetAllVoteDetailBySabhaId", controller = "VoteDetails"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.VoteDetail]]] GetAllVoteDetailBySabhaId(Int32) on controller CAT20.Api.Controllers.VoteDetailsController (CAT20.WebApi).
+2024-01-22 15:51:32.381 +05:30  INF  Route matched with {action = "GetAllAccountDetailByOfficeId", controller = "AccountDetails"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.AccountDetail]]] GetAllAccountDetailByOfficeId(Int32) on controller CAT20.Api.Controllers.AccountDetailsController (CAT20.WebApi).
+2024-01-22 15:51:32.767 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/mixin/voteAssignments/getAllForSabhaId/110 application/json -
+2024-01-22 15:51:32.773 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:51:32.773 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.VoteAssignmentsController.GetAllForSabhaId (CAT20.WebApi)'
+2024-01-22 15:51:32.780 +05:30  INF  Route matched with {action = "GetAllForSabhaId", controller = "VoteAssignments"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetAllForSabhaId(Int32) on controller CAT20.Api.Controllers.VoteAssignmentsController (CAT20.WebApi).
+2024-01-22 15:51:33.407 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.AccountDetailResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:51:33.409 +05:30  INF  Executed action CAT20.Api.Controllers.AccountDetailsController.GetAllAccountDetailByOfficeId (CAT20.WebApi) in 1027.1121ms
+2024-01-22 15:51:33.409 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.AccountDetailsController.GetAllAccountDetailByOfficeId (CAT20.WebApi)'
+2024-01-22 15:51:33.409 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/AccountDetails/getAllAccountDetailsForOfficeId/110 application/json - - 200 2 application/json;+charset=utf-8 1047.2760ms
+2024-01-22 15:51:34.228 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.VoteDetailResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:51:34.246 +05:30  INF  Executed action CAT20.Api.Controllers.VoteDetailsController.GetAllVoteDetailBySabhaId (CAT20.WebApi) in 1866.6837ms
+2024-01-22 15:51:34.247 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.VoteDetailsController.GetAllVoteDetailBySabhaId (CAT20.WebApi)'
+2024-01-22 15:51:34.253 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/voteDetail/getAllVoteDetailBySabhaId/110 application/json - - 200 2 application/json;+charset=utf-8 1900.3732ms
+2024-01-22 15:51:34.498 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Control.OfficeResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:51:34.512 +05:30  INF  Executed action CAT20.WebApi.Controllers.Control.OfficesController.getAllOfficesForSabhaId (CAT20.WebApi) in 2140.9259ms
+2024-01-22 15:51:34.513 +05:30  INF  Executed endpoint 'CAT20.WebApi.Controllers.Control.OfficesController.getAllOfficesForSabhaId (CAT20.WebApi)'
+2024-01-22 15:51:34.519 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/Offices/getAllOfficesForSabhaId/110 application/json - - 200 395 application/json;+charset=utf-8 2157.5718ms
+2024-01-22 15:51:42.874 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[System.Object, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2024-01-22 15:51:42.929 +05:30  INF  Executed action CAT20.Api.Controllers.VoteAssignmentsController.GetAllForSabhaId (CAT20.WebApi) in 10148.6799ms
+2024-01-22 15:51:42.929 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.VoteAssignmentsController.GetAllForSabhaId (CAT20.WebApi)'
+2024-01-22 15:51:42.930 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/mixin/voteAssignments/getAllForSabhaId/110 application/json - - 200 73584 application/json;+charset=utf-8 10163.0153ms
+2024-01-22 15:55:48.736 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/mixin/partners/getAllForSabha/110 - -
+2024-01-22 15:55:48.737 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:55:48.737 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/mixin/partners/getAllForSabha/110 - - - 204 - - 0.6309ms
+2024-01-22 15:55:48.750 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/mixin/partners/getAllForSabha/110 application/json -
+2024-01-22 15:55:48.767 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:55:48.776 +05:30  INF  Executing endpoint 'CAT20.WebApi.Controllers.Control.PartnersController.GetAllForSabha (CAT20.WebApi)'
+2024-01-22 15:55:48.794 +05:30  INF  Route matched with {action = "GetAllForSabha", controller = "Partners"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult] GetAllForSabha(Int32) on controller CAT20.WebApi.Controllers.Control.PartnersController (CAT20.WebApi).
+2024-01-22 15:55:50.712 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/0/2/0/0/0/110 - -
+2024-01-22 15:55:50.713 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:55:50.713 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/0/2/0/0/0/110 - - - 204 - - 0.6371ms
+2024-01-22 15:55:50.715 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/finalaccount/commitment/getAllCommitments - -
+2024-01-22 15:55:50.715 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:55:50.715 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/finalaccount/commitment/getAllCommitments - - - 204 - - 0.4081ms
+2024-01-22 15:55:50.721 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/finalaccount/commitment/getAllCommitments application/json -
+2024-01-22 15:55:50.725 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/0/2/0/0/0/110 application/json -
+2024-01-22 15:55:50.726 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:55:50.727 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi)'
+2024-01-22 15:55:50.727 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:55:50.727 +05:30  INF  Executing endpoint 'CAT20.WebApi.Controllers.FinalAccount.CommitmentController.GetAll (CAT20.WebApi)'
+2024-01-22 15:55:50.737 +05:30  INF  Route matched with {action = "GetAll", controller = "Commitment"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CAT20.WebApi.Resources.FinalAccount.CommitmentResource]] GetAll() on controller CAT20.WebApi.Controllers.FinalAccount.CommitmentController (CAT20.WebApi).
+2024-01-22 15:55:50.741 +05:30  INF  Route matched with {action = "getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId", controller = "VoteDetails"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.VoteDetail]]] getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId(Int32, Int32, Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.VoteDetailsController (CAT20.WebApi).
+2024-01-22 15:55:52.329 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Control.PartnerResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:55:52.357 +05:30  INF  Executed action CAT20.WebApi.Controllers.Control.PartnersController.GetAllForSabha (CAT20.WebApi) in 3561.0081ms
+2024-01-22 15:55:52.357 +05:30  INF  Executed endpoint 'CAT20.WebApi.Controllers.Control.PartnersController.GetAllForSabha (CAT20.WebApi)'
+2024-01-22 15:55:52.358 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/mixin/partners/getAllForSabha/110 application/json - - 200 300003 application/json;+charset=utf-8 3608.0368ms
+2024-01-22 15:55:52.923 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.Core.Models.FinalAccount.Commitment, CAT20.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:55:52.931 +05:30  INF  Executed action CAT20.WebApi.Controllers.FinalAccount.CommitmentController.GetAll (CAT20.WebApi) in 2193.8529ms
+2024-01-22 15:55:52.932 +05:30  INF  Executed endpoint 'CAT20.WebApi.Controllers.FinalAccount.CommitmentController.GetAll (CAT20.WebApi)'
+2024-01-22 15:55:52.933 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/finalaccount/commitment/getAllCommitments application/json - - 200 2 application/json;+charset=utf-8 2211.0442ms
+2024-01-22 15:55:54.165 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.VoteDetailResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:55:54.167 +05:30  INF  Executed action CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi) in 3426.404ms
+2024-01-22 15:55:54.168 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi)'
+2024-01-22 15:55:54.170 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/0/2/0/0/0/110 application/json - - 200 2 application/json;+charset=utf-8 3444.0719ms
+2024-01-22 15:56:21.829 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/Offices/getById/173 - -
+2024-01-22 15:56:21.829 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:56:21.829 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/Offices/getById/173 - - - 204 - - 0.3584ms
+2024-01-22 15:56:21.831 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/Offices/getById/173 application/json -
+2024-01-22 15:56:21.832 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:56:21.832 +05:30  INF  Executing endpoint 'CAT20.WebApi.Controllers.Control.OfficesController.GetById (CAT20.WebApi)'
+2024-01-22 15:56:21.845 +05:30  INF  Route matched with {action = "GetById", controller = "Offices"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CAT20.WebApi.Resources.Control.OfficeResource]] GetById(Int32) on controller CAT20.WebApi.Controllers.Control.OfficesController (CAT20.WebApi).
+2024-01-22 15:56:21.929 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/0/2/0/0/0/110 - -
+2024-01-22 15:56:21.930 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:56:21.930 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/0/2/0/0/0/110 - - - 204 - - 0.5616ms
+2024-01-22 15:56:21.932 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/0/2/0/0/0/110 application/json -
+2024-01-22 15:56:21.933 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:56:21.934 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi)'
+2024-01-22 15:56:21.934 +05:30  INF  Route matched with {action = "getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId", controller = "VoteDetails"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.VoteDetail]]] getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId(Int32, Int32, Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.VoteDetailsController (CAT20.WebApi).
+2024-01-22 15:56:21.945 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/finalaccount/commitment/getAllCommitments - -
+2024-01-22 15:56:21.945 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:56:21.945 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/finalaccount/commitment/getAllCommitments - - - 204 - - 0.3232ms
+2024-01-22 15:56:21.948 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/finalaccount/commitment/getAllCommitments application/json -
+2024-01-22 15:56:21.948 +05:30  INF  CORS policy execution successful.
+2024-01-22 15:56:21.948 +05:30  INF  Executing endpoint 'CAT20.WebApi.Controllers.FinalAccount.CommitmentController.GetAll (CAT20.WebApi)'
+2024-01-22 15:56:21.949 +05:30  INF  Route matched with {action = "GetAll", controller = "Commitment"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CAT20.WebApi.Resources.FinalAccount.CommitmentResource]] GetAll() on controller CAT20.WebApi.Controllers.FinalAccount.CommitmentController (CAT20.WebApi).
+2024-01-22 15:56:22.754 +05:30  INF  Executing OkObjectResult, writing value of type 'CAT20.WebApi.Resources.Control.OfficeResource'.
+2024-01-22 15:56:22.755 +05:30  INF  Executed action CAT20.WebApi.Controllers.Control.OfficesController.GetById (CAT20.WebApi) in 907.1205ms
+2024-01-22 15:56:22.755 +05:30  INF  Executed endpoint 'CAT20.WebApi.Controllers.Control.OfficesController.GetById (CAT20.WebApi)'
+2024-01-22 15:56:22.756 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/Offices/getById/173 application/json - - 200 196 application/json;+charset=utf-8 924.6524ms
+2024-01-22 15:56:23.686 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.Core.Models.FinalAccount.Commitment, CAT20.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:56:23.686 +05:30  INF  Executed action CAT20.WebApi.Controllers.FinalAccount.CommitmentController.GetAll (CAT20.WebApi) in 1737.8513ms
+2024-01-22 15:56:23.687 +05:30  INF  Executed endpoint 'CAT20.WebApi.Controllers.FinalAccount.CommitmentController.GetAll (CAT20.WebApi)'
+2024-01-22 15:56:23.687 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/finalaccount/commitment/getAllCommitments application/json - - 200 2 application/json;+charset=utf-8 1738.6934ms
+2024-01-22 15:56:24.508 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.VoteDetailResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 15:56:24.510 +05:30  INF  Executed action CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi) in 2574.9415ms
+2024-01-22 15:56:24.511 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi)'
+2024-01-22 15:56:24.512 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/0/2/0/0/0/110 application/json - - 200 2 application/json;+charset=utf-8 2579.2752ms
+2024-01-22 15:58:10.778 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/Offices/getById/173 - -
+2024-01-22 15:58:10.785 +05:30  INF  Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-01-22 15:58:10.804 +05:30  INF  AuthenticationScheme: Bearer was challenged.
+2024-01-22 15:58:10.840 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/Offices/getById/173 - - - 401 0 - 61.5186ms
+2024-01-22 16:00:35.813 +05:30  INF  Application is shutting down...
+2024-01-22 16:00:35.837 +05:30  INF  Stopped cleanly
+2024-01-22 20:10:56.934 +05:30  INF  User profile is available. Using '/home/thusitha/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-01-22 20:10:57.706 +05:30  INF  Now listening on: http://localhost:5000
+2024-01-22 20:10:57.711 +05:30  INF  Application started. Press Ctrl+C to shut down.
+2024-01-22 20:10:57.712 +05:30  INF  Hosting environment: Development
+2024-01-22 20:10:57.712 +05:30  INF  Content root path: /home/thusitha/Documents/DevelopmentAutority/Main-QA/cat2020-dev-backend/WebApi/CAT20.WebSolution/CAT20.WebApi
+2024-01-22 20:10:58.171 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - -
+2024-01-22 20:10:59.338 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - - - 200 - text/html;charset=utf-8 1173.4951ms
+2024-01-22 20:11:00.657 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - -
+2024-01-22 20:11:01.818 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 1159.7563ms
+2024-01-22 20:19:35.125 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/Offices/getById/173 - -
+2024-01-22 20:19:35.202 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/0/2/0/0/0/110 - -
+2024-01-22 20:19:35.202 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/finalaccount/commitment/getAllCommitments - -
+2024-01-22 20:19:35.247 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:19:35.247 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:19:35.248 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:19:35.253 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/Offices/getById/173 - - - 204 - - 127.6177ms
+2024-01-22 20:19:35.269 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/finalaccount/commitment/getAllCommitments - - - 204 - - 66.2746ms
+2024-01-22 20:19:35.269 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/0/2/0/0/0/110 - - - 204 - - 66.7264ms
+2024-01-22 20:19:35.286 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/finalaccount/commitment/getAllCommitments application/json -
+2024-01-22 20:19:35.286 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/0/2/0/0/0/110 application/json -
+2024-01-22 20:19:35.286 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/Offices/getById/173 application/json -
+2024-01-22 20:19:35.300 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:19:35.300 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:19:35.310 +05:30  INF  Executing endpoint 'CAT20.WebApi.Controllers.FinalAccount.CommitmentController.GetAll (CAT20.WebApi)'
+2024-01-22 20:19:35.313 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:19:35.448 +05:30  INF  Route matched with {action = "GetAll", controller = "Commitment"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CAT20.WebApi.Resources.FinalAccount.CommitmentResource]] GetAll() on controller CAT20.WebApi.Controllers.FinalAccount.CommitmentController (CAT20.WebApi).
+2024-01-22 20:19:36.226 +05:30  INF  Executing endpoint 'CAT20.WebApi.Controllers.Control.OfficesController.GetById (CAT20.WebApi)'
+2024-01-22 20:19:36.229 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi)'
+2024-01-22 20:19:36.271 +05:30  INF  Route matched with {action = "getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId", controller = "VoteDetails"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.VoteDetail]]] getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId(Int32, Int32, Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.VoteDetailsController (CAT20.WebApi).
+2024-01-22 20:19:36.271 +05:30  INF  Route matched with {action = "GetById", controller = "Offices"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CAT20.WebApi.Resources.Control.OfficeResource]] GetById(Int32) on controller CAT20.WebApi.Controllers.Control.OfficesController (CAT20.WebApi).
+2024-01-22 20:19:43.423 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.VoteDetailResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:19:43.423 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.Core.Models.FinalAccount.Commitment, CAT20.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:19:43.533 +05:30  INF  Executing OkObjectResult, writing value of type 'CAT20.WebApi.Resources.Control.OfficeResource'.
+2024-01-22 20:19:43.818 +05:30  INF  Executed action CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi) in 7534.8148ms
+2024-01-22 20:19:43.818 +05:30  INF  Executed action CAT20.WebApi.Controllers.FinalAccount.CommitmentController.GetAll (CAT20.WebApi) in 8349.2843ms
+2024-01-22 20:19:43.831 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi)'
+2024-01-22 20:19:43.831 +05:30  INF  Executed endpoint 'CAT20.WebApi.Controllers.FinalAccount.CommitmentController.GetAll (CAT20.WebApi)'
+2024-01-22 20:19:43.858 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/0/2/0/0/0/110 application/json - - 200 2 application/json;+charset=utf-8 8571.3135ms
+2024-01-22 20:19:43.858 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/finalaccount/commitment/getAllCommitments application/json - - 200 2 application/json;+charset=utf-8 8571.2106ms
+2024-01-22 20:19:43.871 +05:30  INF  Executed action CAT20.WebApi.Controllers.Control.OfficesController.GetById (CAT20.WebApi) in 7598.962ms
+2024-01-22 20:19:43.871 +05:30  INF  Executed endpoint 'CAT20.WebApi.Controllers.Control.OfficesController.GetById (CAT20.WebApi)'
+2024-01-22 20:19:43.881 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/Offices/getById/173 application/json - - 200 196 application/json;+charset=utf-8 8594.1684ms
+2024-01-22 20:20:13.198 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - -
+2024-01-22 20:20:13.199 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:20:13.200 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - - - 204 - - 2.0866ms
+2024-01-22 20:20:13.203 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json -
+2024-01-22 20:20:13.206 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:20:13.213 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 20:20:13.220 +05:30  INF  Route matched with {action = "GetAllProgrammesForSabhaId", controller = "Programmes"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Programme]]] GetAllProgrammesForSabhaId(Int32) on controller CAT20.Api.Controllers.ProgrammesController (CAT20.WebApi).
+2024-01-22 20:20:14.522 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProgrammeResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:20:14.535 +05:30  INF  Executed action CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi) in 1314.9121ms
+2024-01-22 20:20:14.535 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 20:20:14.535 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json - - 200 109 application/json;+charset=utf-8 1332.3088ms
+2024-01-22 20:20:18.871 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 - -
+2024-01-22 20:20:18.871 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:20:18.872 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 - - - 204 - - 0.5126ms
+2024-01-22 20:20:18.875 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 application/json -
+2024-01-22 20:20:18.880 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:20:18.881 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProjectsController.GetAllProjectsForProgrammeId (CAT20.WebApi)'
+2024-01-22 20:20:18.892 +05:30  INF  Route matched with {action = "GetAllProjectsForProgrammeId", controller = "Projects"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Project]]] GetAllProjectsForProgrammeId(Int32) on controller CAT20.Api.Controllers.ProjectsController (CAT20.WebApi).
+2024-01-22 20:20:20.172 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProjectResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:20:20.182 +05:30  INF  Executed action CAT20.Api.Controllers.ProjectsController.GetAllProjectsForProgrammeId (CAT20.WebApi) in 1288.907ms
+2024-01-22 20:20:20.182 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProjectsController.GetAllProjectsForProgrammeId (CAT20.WebApi)'
+2024-01-22 20:20:20.182 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 application/json - - 200 128 application/json;+charset=utf-8 1307.0115ms
+2024-01-22 20:20:21.395 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/subProject/getAllSubProjectsForProjectId/1 - -
+2024-01-22 20:20:21.397 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:20:21.402 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/subProject/getAllSubProjectsForProjectId/1 - - - 204 - - 2.4495ms
+2024-01-22 20:20:21.423 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/subProject/getAllSubProjectsForProjectId/1 application/json -
+2024-01-22 20:20:21.440 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:20:21.442 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.SubProjectsController.GetAllWithSubProjectByProjectId (CAT20.WebApi)'
+2024-01-22 20:20:21.454 +05:30  INF  Route matched with {action = "GetAllWithSubProjectByProjectId", controller = "SubProjects"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.SubProject]]] GetAllWithSubProjectByProjectId(Int32) on controller CAT20.Api.Controllers.SubProjectsController (CAT20.WebApi).
+2024-01-22 20:20:22.813 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.SubProjectResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:20:22.829 +05:30  INF  Executed action CAT20.Api.Controllers.SubProjectsController.GetAllWithSubProjectByProjectId (CAT20.WebApi) in 1374.3247ms
+2024-01-22 20:20:22.829 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.SubProjectsController.GetAllWithSubProjectByProjectId (CAT20.WebApi)'
+2024-01-22 20:20:22.830 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/subProject/getAllSubProjectsForProjectId/1 application/json - - 200 155 application/json;+charset=utf-8 1406.0728ms
+2024-01-22 20:20:32.464 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/0/0/110 - -
+2024-01-22 20:20:32.464 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/1/2/0/110 - -
+2024-01-22 20:20:32.465 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:20:32.465 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:20:32.467 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/1/2/0/110 - - - 204 - - 2.1988ms
+2024-01-22 20:20:32.468 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/0/0/110 - - - 204 - - 4.2957ms
+2024-01-22 20:20:32.470 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/1/2/0/0/0/110 - -
+2024-01-22 20:20:32.471 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:20:32.471 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/1/2/0/0/0/110 - - - 204 - - 0.4919ms
+2024-01-22 20:20:32.474 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/1/2/0/110 application/json -
+2024-01-22 20:20:32.475 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/0/0/110 application/json -
+2024-01-22 20:20:32.475 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/1/2/0/0/0/110 application/json -
+2024-01-22 20:20:32.476 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:20:32.477 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi)'
+2024-01-22 20:20:32.477 +05:30  INF  Route matched with {action = "getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId", controller = "VoteDetails"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.VoteDetail]]] getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId(Int32, Int32, Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.VoteDetailsController (CAT20.WebApi).
+2024-01-22 20:20:32.481 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:20:32.482 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 20:20:32.484 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:20:32.485 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi)'
+2024-01-22 20:20:32.492 +05:30  INF  Route matched with {action = "GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId", controller = "IncomeSubtitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeSubtitle]]] GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeSubtitlesController (CAT20.WebApi).
+2024-01-22 20:20:32.495 +05:30  INF  Route matched with {action = "GetAllWithIncomeTitleByProgrammeClassificationCategoryId", controller = "IncomeTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeTitle]]] GetAllWithIncomeTitleByProgrammeClassificationCategoryId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeTitlesController (CAT20.WebApi).
+2024-01-22 20:20:33.644 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeTitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:20:33.653 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi) in 1158.5757ms
+2024-01-22 20:20:33.655 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 20:20:33.657 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/1/2/0/110 application/json - - 200 2 application/json;+charset=utf-8 1182.3521ms
+2024-01-22 20:20:33.684 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeSubtitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:20:33.690 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi) in 1197.2427ms
+2024-01-22 20:20:33.690 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi)'
+2024-01-22 20:20:33.691 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/0/0/110 application/json - - 200 2 application/json;+charset=utf-8 1215.2572ms
+2024-01-22 20:20:34.491 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.VoteDetailResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:20:34.492 +05:30  INF  Executed action CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi) in 2014.6552ms
+2024-01-22 20:20:34.492 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi)'
+2024-01-22 20:20:34.494 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/1/2/0/0/0/110 application/json - - 200 2 application/json;+charset=utf-8 2017.9575ms
+2024-01-22 20:20:34.839 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/1/2/4/110 - -
+2024-01-22 20:20:34.839 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:20:34.839 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/1/2/4/110 - - - 204 - - 0.4878ms
+2024-01-22 20:20:34.845 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/1/2/4/110 application/json -
+2024-01-22 20:20:34.845 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:20:34.848 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 20:20:34.849 +05:30  INF  Route matched with {action = "GetAllWithIncomeTitleByProgrammeClassificationCategoryId", controller = "IncomeTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeTitle]]] GetAllWithIncomeTitleByProgrammeClassificationCategoryId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeTitlesController (CAT20.WebApi).
+2024-01-22 20:20:34.860 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/4/0/110 - -
+2024-01-22 20:20:34.860 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:20:34.861 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/4/0/110 - - - 204 - - 0.3814ms
+2024-01-22 20:20:34.861 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/1/2/4/0/0/110 - -
+2024-01-22 20:20:34.861 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:20:34.861 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/1/2/4/0/0/110 - - - 204 - - 0.5500ms
+2024-01-22 20:20:34.866 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/4/0/110 application/json -
+2024-01-22 20:20:34.866 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:20:34.867 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi)'
+2024-01-22 20:20:34.868 +05:30  INF  Route matched with {action = "GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId", controller = "IncomeSubtitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeSubtitle]]] GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeSubtitlesController (CAT20.WebApi).
+2024-01-22 20:20:34.868 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/1/2/4/0/0/110 application/json -
+2024-01-22 20:20:34.868 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:20:34.869 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi)'
+2024-01-22 20:20:34.869 +05:30  INF  Route matched with {action = "getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId", controller = "VoteDetails"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.VoteDetail]]] getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId(Int32, Int32, Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.VoteDetailsController (CAT20.WebApi).
+2024-01-22 20:20:36.021 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeTitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:20:36.024 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi) in 1174.2239ms
+2024-01-22 20:20:36.025 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 20:20:36.028 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/1/2/4/110 application/json - - 200 2 application/json;+charset=utf-8 1182.2304ms
+2024-01-22 20:20:36.030 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeSubtitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:20:36.031 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi) in 1163.3245ms
+2024-01-22 20:20:36.032 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi)'
+2024-01-22 20:20:36.033 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/4/0/110 application/json - - 200 2 application/json;+charset=utf-8 1166.3344ms
+2024-01-22 20:20:37.259 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.VoteDetailResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:20:37.259 +05:30  INF  Executed action CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi) in 2389.9412ms
+2024-01-22 20:20:37.260 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi)'
+2024-01-22 20:20:37.260 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/1/2/4/0/0/110 application/json - - 200 2 application/json;+charset=utf-8 2392.2827ms
+2024-01-22 20:24:33.537 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/balancesheetTitles/getAllBalancesheetTitlesByClassificationMainLedgerAccountId/0/0/110 - -
+2024-01-22 20:24:33.538 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:24:33.545 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/balancesheetTitles/getAllBalancesheetTitlesByClassificationMainLedgerAccountId/0/0/110 - - - 204 - - 7.2150ms
+2024-01-22 20:24:33.559 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/balancesheetTitles/getAllBalancesheetTitlesByClassificationMainLedgerAccountId/0/0/110 application/json -
+2024-01-22 20:24:33.566 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:24:33.571 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.BalancesheetTitlesController.GetAllWithBalancesheetTitleByClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 20:24:33.587 +05:30  INF  Route matched with {action = "GetAllWithBalancesheetTitleByClassificationCategoryId", controller = "BalancesheetTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.BalancesheetTitle]]] GetAllWithBalancesheetTitleByClassificationCategoryId(Int32, Int32, Int32) on controller CAT20.Api.Controllers.BalancesheetTitlesController (CAT20.WebApi).
+2024-01-22 20:24:33.937 +05:30  INF  balancesheetTitles controller called 
+2024-01-22 20:24:33.949 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.BalancesheetTitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:24:33.952 +05:30  INF  Executed action CAT20.Api.Controllers.BalancesheetTitlesController.GetAllWithBalancesheetTitleByClassificationCategoryId (CAT20.WebApi) in 364.3529ms
+2024-01-22 20:24:33.952 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.BalancesheetTitlesController.GetAllWithBalancesheetTitleByClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 20:24:33.952 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/balancesheetTitles/getAllBalancesheetTitlesByClassificationMainLedgerAccountId/0/0/110 application/json - - 200 2 application/json;+charset=utf-8 393.4646ms
+2024-01-22 20:24:34.757 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - -
+2024-01-22 20:24:34.758 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:24:34.758 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - - - 204 - - 0.5360ms
+2024-01-22 20:24:34.762 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json -
+2024-01-22 20:24:34.762 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:24:34.763 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 20:24:34.763 +05:30  INF  Route matched with {action = "GetAllProgrammesForSabhaId", controller = "Programmes"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Programme]]] GetAllProgrammesForSabhaId(Int32) on controller CAT20.Api.Controllers.ProgrammesController (CAT20.WebApi).
+2024-01-22 20:24:35.811 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/Group/getCheckAccessByRuleCode/VTACCDTLADDEDIT/1104 - -
+2024-01-22 20:24:35.812 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:24:35.812 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/Group/getCheckAccessByRuleCode/VTACCDTLADDEDIT/1104 - - - 204 - - 0.6941ms
+2024-01-22 20:24:35.815 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/Group/getCheckAccessByRuleCode/VTACCDTLADDEDIT/1104 application/json -
+2024-01-22 20:24:35.819 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/AccountDetails/getAllAccountDetailsForOfficeId/110 - -
+2024-01-22 20:24:35.819 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:24:35.820 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/AccountDetails/getAllAccountDetailsForOfficeId/110 - - - 204 - - 0.4636ms
+2024-01-22 20:24:35.824 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:24:35.826 +05:30  INF  Executing endpoint 'CAT20.WebApi.Controllers.User.GroupController.GetChackAccessByRuleCode (CAT20.WebApi)'
+2024-01-22 20:24:35.831 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/AccountDetails/getAllAccountDetailsForOfficeId/110 application/json -
+2024-01-22 20:24:35.834 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/BankDetails - -
+2024-01-22 20:24:35.834 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:24:35.834 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/BankDetails - - - 204 - - 0.3875ms
+2024-01-22 20:24:35.838 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/BankDetails application/json -
+2024-01-22 20:24:35.839 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:24:35.841 +05:30  INF  Executing endpoint 'CAT20.WebApi.Controllers.Control.BankDetailsController.GetAllProducts (CAT20.WebApi)'
+2024-01-22 20:24:35.845 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:24:35.849 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.AccountDetailsController.GetAllAccountDetailByOfficeId (CAT20.WebApi)'
+2024-01-22 20:24:35.852 +05:30  INF  Route matched with {action = "GetAllProducts", controller = "BankDetails"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Control.BankDetail]]] GetAllProducts() on controller CAT20.WebApi.Controllers.Control.BankDetailsController (CAT20.WebApi).
+2024-01-22 20:24:35.860 +05:30  INF  Route matched with {action = "GetAllAccountDetailByOfficeId", controller = "AccountDetails"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.AccountDetail]]] GetAllAccountDetailByOfficeId(Int32) on controller CAT20.Api.Controllers.AccountDetailsController (CAT20.WebApi).
+2024-01-22 20:24:35.867 +05:30  INF  Route matched with {action = "GetChackAccessByRuleCode", controller = "Group"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Boolean]] GetChackAccessByRuleCode(System.String, Int32) on controller CAT20.WebApi.Controllers.User.GroupController (CAT20.WebApi).
+2024-01-22 20:24:36.962 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProgrammeResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:24:36.962 +05:30  INF  Executed action CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi) in 2199.1394ms
+2024-01-22 20:24:36.962 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 20:24:36.962 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json - - 200 109 application/json;+charset=utf-8 2200.7003ms
+2024-01-22 20:24:37.777 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Control.BankDetailResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:24:37.780 +05:30  INF  Executed action CAT20.WebApi.Controllers.Control.BankDetailsController.GetAllProducts (CAT20.WebApi) in 1928.4525ms
+2024-01-22 20:24:37.780 +05:30  INF  Executed endpoint 'CAT20.WebApi.Controllers.Control.BankDetailsController.GetAllProducts (CAT20.WebApi)'
+2024-01-22 20:24:37.781 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/BankDetails application/json - - 200 565 application/json;+charset=utf-8 1942.2549ms
+2024-01-22 20:24:38.279 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.AccountDetailResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:24:38.284 +05:30  INF  Executed action CAT20.Api.Controllers.AccountDetailsController.GetAllAccountDetailByOfficeId (CAT20.WebApi) in 2423.4052ms
+2024-01-22 20:24:38.284 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.AccountDetailsController.GetAllAccountDetailByOfficeId (CAT20.WebApi)'
+2024-01-22 20:24:38.284 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/AccountDetails/getAllAccountDetailsForOfficeId/110 application/json - - 200 2 application/json;+charset=utf-8 2453.2874ms
+2024-01-22 20:24:40.060 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Boolean'.
+2024-01-22 20:24:40.061 +05:30  INF  Executed action CAT20.WebApi.Controllers.User.GroupController.GetChackAccessByRuleCode (CAT20.WebApi) in 4193.9869ms
+2024-01-22 20:24:40.062 +05:30  INF  Executed endpoint 'CAT20.WebApi.Controllers.User.GroupController.GetChackAccessByRuleCode (CAT20.WebApi)'
+2024-01-22 20:24:40.067 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/Group/getCheckAccessByRuleCode/VTACCDTLADDEDIT/1104 application/json - - 200 4 application/json;+charset=utf-8 4251.4031ms
+2024-01-22 20:24:59.209 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - -
+2024-01-22 20:24:59.209 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:24:59.211 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 - - - 204 - - 1.2815ms
+2024-01-22 20:24:59.213 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json -
+2024-01-22 20:24:59.214 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:24:59.214 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 20:24:59.214 +05:30  INF  Route matched with {action = "GetAllProgrammesForSabhaId", controller = "Programmes"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Programme]]] GetAllProgrammesForSabhaId(Int32) on controller CAT20.Api.Controllers.ProgrammesController (CAT20.WebApi).
+2024-01-22 20:25:00.473 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProgrammeResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:25:00.475 +05:30  INF  Executed action CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi) in 1260.7955ms
+2024-01-22 20:25:00.476 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProgrammesController.GetAllProgrammesForSabhaId (CAT20.WebApi)'
+2024-01-22 20:25:00.477 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/programmes/getAllProgrammesForSabhaId/110 application/json - - 200 109 application/json;+charset=utf-8 1262.8937ms
+2024-01-22 20:25:11.122 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 - -
+2024-01-22 20:25:11.122 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:25:11.123 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 - - - 204 - - 0.4017ms
+2024-01-22 20:25:11.129 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 application/json -
+2024-01-22 20:25:11.129 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:25:11.130 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.ProjectsController.GetAllProjectsForProgrammeId (CAT20.WebApi)'
+2024-01-22 20:25:11.130 +05:30  INF  Route matched with {action = "GetAllProjectsForProgrammeId", controller = "Projects"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.Project]]] GetAllProjectsForProgrammeId(Int32) on controller CAT20.Api.Controllers.ProjectsController (CAT20.WebApi).
+2024-01-22 20:25:12.289 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.ProjectResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:25:12.290 +05:30  INF  Executed action CAT20.Api.Controllers.ProjectsController.GetAllProjectsForProgrammeId (CAT20.WebApi) in 1159.3072ms
+2024-01-22 20:25:12.290 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.ProjectsController.GetAllProjectsForProgrammeId (CAT20.WebApi)'
+2024-01-22 20:25:12.290 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/projects/GetAllProjectsForProgrammeId/1 application/json - - 200 128 application/json;+charset=utf-8 1161.6414ms
+2024-01-22 20:25:14.714 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/subProject/getAllSubProjectsForProjectId/1 - -
+2024-01-22 20:25:14.714 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:25:14.714 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/subProject/getAllSubProjectsForProjectId/1 - - - 204 - - 0.5246ms
+2024-01-22 20:25:14.718 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/subProject/getAllSubProjectsForProjectId/1 application/json -
+2024-01-22 20:25:14.718 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:25:14.719 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.SubProjectsController.GetAllWithSubProjectByProjectId (CAT20.WebApi)'
+2024-01-22 20:25:14.719 +05:30  INF  Route matched with {action = "GetAllWithSubProjectByProjectId", controller = "SubProjects"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.SubProject]]] GetAllWithSubProjectByProjectId(Int32) on controller CAT20.Api.Controllers.SubProjectsController (CAT20.WebApi).
+2024-01-22 20:25:15.930 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.SubProjectResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:25:15.930 +05:30  INF  Executed action CAT20.Api.Controllers.SubProjectsController.GetAllWithSubProjectByProjectId (CAT20.WebApi) in 1210.8661ms
+2024-01-22 20:25:15.930 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.SubProjectsController.GetAllWithSubProjectByProjectId (CAT20.WebApi)'
+2024-01-22 20:25:15.930 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/subProject/getAllSubProjectsForProjectId/1 application/json - - 200 155 application/json;+charset=utf-8 1212.8979ms
+2024-01-22 20:25:26.654 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/1/2/0/110 - -
+2024-01-22 20:25:26.655 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:25:26.656 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/1/2/0/110 - - - 204 - - 1.6704ms
+2024-01-22 20:25:26.656 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/0/0/110 - -
+2024-01-22 20:25:26.657 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:25:26.657 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/0/0/110 - - - 204 - - 0.5089ms
+2024-01-22 20:25:26.665 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/1/2/0/0/0/110 - -
+2024-01-22 20:25:26.666 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:25:26.666 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/1/2/0/0/0/110 - - - 204 - - 0.7350ms
+2024-01-22 20:25:26.666 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/0/0/110 application/json -
+2024-01-22 20:25:26.667 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:25:26.668 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi)'
+2024-01-22 20:25:26.668 +05:30  INF  Route matched with {action = "GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId", controller = "IncomeSubtitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeSubtitle]]] GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeSubtitlesController (CAT20.WebApi).
+2024-01-22 20:25:26.673 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/1/2/0/0/0/110 application/json -
+2024-01-22 20:25:26.673 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:25:26.674 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi)'
+2024-01-22 20:25:26.674 +05:30  INF  Route matched with {action = "getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId", controller = "VoteDetails"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.VoteDetail]]] getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId(Int32, Int32, Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.VoteDetailsController (CAT20.WebApi).
+2024-01-22 20:25:26.683 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/1/2/0/110 application/json -
+2024-01-22 20:25:26.683 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:25:26.686 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 20:25:26.686 +05:30  INF  Route matched with {action = "GetAllWithIncomeTitleByProgrammeClassificationCategoryId", controller = "IncomeTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeTitle]]] GetAllWithIncomeTitleByProgrammeClassificationCategoryId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeTitlesController (CAT20.WebApi).
+2024-01-22 20:25:27.787 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeTitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:25:27.789 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi) in 1102.049ms
+2024-01-22 20:25:27.790 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 20:25:27.792 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/1/2/0/110 application/json - - 200 2 application/json;+charset=utf-8 1108.2705ms
+2024-01-22 20:25:28.525 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeSubtitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:25:28.526 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi) in 1858.6013ms
+2024-01-22 20:25:28.527 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi)'
+2024-01-22 20:25:28.528 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/0/0/110 application/json - - 200 2 application/json;+charset=utf-8 1861.2662ms
+2024-01-22 20:25:29.242 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.VoteDetailResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:25:29.243 +05:30  INF  Executed action CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi) in 2568.1311ms
+2024-01-22 20:25:29.243 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi)'
+2024-01-22 20:25:29.244 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/1/2/0/0/0/110 application/json - - 200 2 application/json;+charset=utf-8 2571.3878ms
+2024-01-22 20:25:31.943 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/1/2/4/110 - -
+2024-01-22 20:25:31.943 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:25:31.944 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/1/2/4/110 - - - 204 - - 0.7808ms
+2024-01-22 20:25:31.949 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/1/2/4/110 application/json -
+2024-01-22 20:25:31.949 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:25:31.950 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 20:25:31.950 +05:30  INF  Route matched with {action = "GetAllWithIncomeTitleByProgrammeClassificationCategoryId", controller = "IncomeTitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeTitle]]] GetAllWithIncomeTitleByProgrammeClassificationCategoryId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeTitlesController (CAT20.WebApi).
+2024-01-22 20:25:31.958 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/4/0/110 - -
+2024-01-22 20:25:31.958 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:25:31.958 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/4/0/110 - - - 204 - - 0.8316ms
+2024-01-22 20:25:31.963 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/4/0/110 application/json -
+2024-01-22 20:25:31.963 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:25:31.964 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi)'
+2024-01-22 20:25:31.964 +05:30  INF  Route matched with {action = "GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId", controller = "IncomeSubtitles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.IncomeSubtitle]]] GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId(Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.IncomeSubtitlesController (CAT20.WebApi).
+2024-01-22 20:25:31.973 +05:30  INF  Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/1/2/4/0/0/110 - -
+2024-01-22 20:25:31.974 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:25:31.974 +05:30  INF  Request finished HTTP/1.1 OPTIONS http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/1/2/4/0/0/110 - - - 204 - - 0.7909ms
+2024-01-22 20:25:31.977 +05:30  INF  Request starting HTTP/1.1 GET http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/1/2/4/0/0/110 application/json -
+2024-01-22 20:25:31.977 +05:30  INF  CORS policy execution successful.
+2024-01-22 20:25:31.978 +05:30  INF  Executing endpoint 'CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi)'
+2024-01-22 20:25:31.978 +05:30  INF  Route matched with {action = "getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId", controller = "VoteDetails"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CAT20.Core.Models.Vote.VoteDetail]]] getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId(Int32, Int32, Int32, Int32, Int32, Int32) on controller CAT20.Api.Controllers.VoteDetailsController (CAT20.WebApi).
+2024-01-22 20:25:33.028 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeTitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:25:33.029 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi) in 1078.2345ms
+2024-01-22 20:25:33.030 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeTitlesController.GetAllWithIncomeTitleByProgrammeClassificationCategoryId (CAT20.WebApi)'
+2024-01-22 20:25:33.031 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeTitle/getAllIncometitleByProgrammeClassificationMainLedgerAccountID/1/2/4/110 application/json - - 200 2 application/json;+charset=utf-8 1081.7536ms
+2024-01-22 20:25:33.114 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.IncomeSubtitleResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:25:33.119 +05:30  INF  Executed action CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi) in 1151.9104ms
+2024-01-22 20:25:33.119 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.IncomeSubtitlesController.GetAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId (CAT20.WebApi)'
+2024-01-22 20:25:33.120 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/incomeSubtitle/getAllIncomeSubTitlesForTitleIDAndClassificationIDAndMainLedgerAccountId/2/4/0/110 application/json - - 200 2 application/json;+charset=utf-8 1157.3275ms
+2024-01-22 20:25:34.463 +05:30  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CAT20.WebApi.Resources.Vote.VoteDetailResource, CAT20.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-01-22 20:25:34.464 +05:30  INF  Executed action CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi) in 2486.4403ms
+2024-01-22 20:25:34.465 +05:30  INF  Executed endpoint 'CAT20.Api.Controllers.VoteDetailsController.getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId (CAT20.WebApi)'
+2024-01-22 20:25:34.465 +05:30  INF  Request finished HTTP/1.1 GET http://localhost:5000/api/vote/voteDetail/getAllVoteDetailsByProgrammeIdClassificationIdMainLedgerAccIdLedgerCategoryIdLedgerAccountId/1/2/4/0/0/110 application/json - - 200 2 application/json;+charset=utf-8 2488.5407ms
+2024-01-22 20:27:13.907 +05:30  INF  Application is shutting down...
+2024-01-22 20:27:13.949 +05:30  INF  Stopped cleanly

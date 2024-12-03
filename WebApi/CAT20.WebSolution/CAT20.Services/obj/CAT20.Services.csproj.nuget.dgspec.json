@@ -1,0 +1,373 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Services\\CAT20.Services.csproj": {}
+  },
+  "projects": {
+    "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Common\\CAT20.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Common\\CAT20.Common.csproj",
+        "projectName": "CAT20.Common",
+        "projectPath": "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Common\\CAT20.Common.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\user\\Downloads": {},
+          "E:\\.net\\Guna UI Framework Ultimate v2.0.0.1 Lib-Master\\Guna.UI2 WinForms\\.net 4.0": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Core\\CAT20.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Core\\CAT20.Core.csproj",
+        "projectName": "CAT20.Core",
+        "projectPath": "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Core\\CAT20.Core.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\user\\Downloads": {},
+          "E:\\.net\\Guna UI Framework Ultimate v2.0.0.1 Lib-Master\\Guna.UI2 WinForms\\.net 4.0": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Common\\CAT20.Common.csproj": {
+                "projectPath": "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Common\\CAT20.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Data\\CAT20.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Data\\CAT20.Data.csproj",
+        "projectName": "CAT20.Data",
+        "projectPath": "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Data\\CAT20.Data.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\user\\Downloads": {},
+          "E:\\.net\\Guna UI Framework Ultimate v2.0.0.1 Lib-Master\\Guna.UI2 WinForms\\.net 4.0": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Common\\CAT20.Common.csproj": {
+                "projectPath": "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Common\\CAT20.Common.csproj"
+              },
+              "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Core\\CAT20.Core.csproj": {
+                "projectPath": "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Core\\CAT20.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CompareNETObjects": {
+              "target": "Package",
+              "version": "[4.83.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Services\\CAT20.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Services\\CAT20.Services.csproj",
+        "projectName": "CAT20.Services",
+        "projectPath": "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Services\\CAT20.Services.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\user\\Downloads": {},
+          "E:\\.net\\Guna UI Framework Ultimate v2.0.0.1 Lib-Master\\Guna.UI2 WinForms\\.net 4.0": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Common\\CAT20.Common.csproj": {
+                "projectPath": "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Common\\CAT20.Common.csproj"
+              },
+              "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Core\\CAT20.Core.csproj": {
+                "projectPath": "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Core\\CAT20.Core.csproj"
+              },
+              "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Data\\CAT20.Data.csproj": {
+                "projectPath": "D:\\C# ERA\\CAT2020\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.Data\\CAT20.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "BouncyCastle.NetCore": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.102.1, )"
+            },
+            "CompareNETObjects": {
+              "target": "Package",
+              "version": "[4.83.0, )"
+            },
+            "DinkToPdf": {
+              "target": "Package",
+              "version": "[1.0.8, )"
+            },
+            "DocumentFormat.OpenXmlSDK": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "HtmlToPdfConverter.Core": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "PDFsharp": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "PuppeteerSharp": {
+              "target": "Package",
+              "version": "[20.0.3, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

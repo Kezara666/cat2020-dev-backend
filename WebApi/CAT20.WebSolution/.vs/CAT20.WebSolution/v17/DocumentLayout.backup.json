@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lakma\\OneDrive\\Documents\\GitHub\\sunsystec\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5113A7AE-CC9B-4BB0-8D94-F0AE13AA904C}|CAT20.WebApi\\CAT20.WebApi.csproj|c:\\users\\lakma\\onedrive\\documents\\github\\sunsystec\\cat2020-dev-backend\\webapi\\cat20.websolution\\cat20.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5113A7AE-CC9B-4BB0-8D94-F0AE13AA904C}|CAT20.WebApi\\CAT20.WebApi.csproj|solutionrelative:cat20.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5113A7AE-CC9B-4BB0-8D94-F0AE13AA904C}|CAT20.WebApi\\CAT20.WebApi.csproj|c:\\users\\lakma\\onedrive\\documents\\github\\sunsystec\\cat2020-dev-backend\\webapi\\cat20.websolution\\cat20.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5113A7AE-CC9B-4BB0-8D94-F0AE13AA904C}|CAT20.WebApi\\CAT20.WebApi.csproj|solutionrelative:cat20.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5113A7AE-CC9B-4BB0-8D94-F0AE13AA904C}|CAT20.WebApi\\CAT20.WebApi.csproj|c:\\users\\lakma\\onedrive\\documents\\github\\sunsystec\\cat2020-dev-backend\\webapi\\cat20.websolution\\cat20.webapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5113A7AE-CC9B-4BB0-8D94-F0AE13AA904C}|CAT20.WebApi\\CAT20.WebApi.csproj|solutionrelative:cat20.webapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5113A7AE-CC9B-4BB0-8D94-F0AE13AA904C}|CAT20.WebApi\\CAT20.WebApi.csproj|c:\\users\\lakma\\onedrive\\documents\\github\\sunsystec\\cat2020-dev-backend\\webapi\\cat20.websolution\\cat20.webapi\\appsettings.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5113A7AE-CC9B-4BB0-8D94-F0AE13AA904C}|CAT20.WebApi\\CAT20.WebApi.csproj|solutionrelative:cat20.webapi\\appsettings.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lakma\\OneDrive\\Documents\\GitHub\\sunsystec\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CAT20.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\lakma\\OneDrive\\Documents\\GitHub\\sunsystec\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.WebApi\\appsettings.json",
+              "RelativeToolTip": "CAT20.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T03:42:10.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\lakma\\OneDrive\\Documents\\GitHub\\sunsystec\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.WebApi\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "CAT20.WebApi\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\lakma\\OneDrive\\Documents\\GitHub\\sunsystec\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.WebApi\\appsettings.Production.json",
+              "RelativeToolTip": "CAT20.WebApi\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T03:41:37.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Local.json",
+              "DocumentMoniker": "C:\\Users\\lakma\\OneDrive\\Documents\\GitHub\\sunsystec\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.WebApi\\appsettings.Local.json",
+              "RelativeDocumentMoniker": "CAT20.WebApi\\appsettings.Local.json",
+              "ToolTip": "C:\\Users\\lakma\\OneDrive\\Documents\\GitHub\\sunsystec\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.WebApi\\appsettings.Local.json",
+              "RelativeToolTip": "CAT20.WebApi\\appsettings.Local.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T03:41:31.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\lakma\\OneDrive\\Documents\\GitHub\\sunsystec\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CAT20.WebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\lakma\\OneDrive\\Documents\\GitHub\\sunsystec\\cat2020-dev-backend\\WebApi\\CAT20.WebSolution\\CAT20.WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "CAT20.WebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T03:41:24.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="BizObjectBase.cs" />
+    <Compile Remove="Vote\ExpenditureVoteAllocationService.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CAT20.Common\CAT20.Common.csproj" />
+    <ProjectReference Include="..\CAT20.Core\CAT20.Core.csproj" />
+    <ProjectReference Include="..\CAT20.Data\CAT20.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="BouncyCastle.NetCore" Version="2.2.1" />
+    <PackageReference Include="ClosedXML" Version="0.102.1" />
+    <PackageReference Include="CompareNETObjects" Version="4.83.0" />
+    <PackageReference Include="DinkToPdf" Version="1.0.8" />
+    <PackageReference Include="DocumentFormat.OpenXmlSDK" Version="2.0.0" />
+    <PackageReference Include="HtmlToPdfConverter.Core" Version="2.0.0" />
+    <PackageReference Include="PDFsharp" Version="6.0.0" />
+    <PackageReference Include="PuppeteerSharp" Version="20.0.3" />
+    <PackageReference Include="SixLabors.ImageSharp" Version="3.1.5" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AutoMapper">
+      <HintPath>..\..\..\..\..\..\.nuget\packages\automapper\12.0.0\lib\netstandard2.1\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common">
+      <HintPath>C:\Users\lakma\Downloads\reportviewercore-master (1)\reportviewercore-master\Microsoft.ReportViewer.NETCore\bin\Debug\net6.0\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization">
+      <HintPath>C:\Users\lakma\Downloads\reportviewercore-master (1)\reportviewercore-master\Microsoft.ReportViewer.NETCore\bin\Debug\net6.0\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.NETCore">
+      <HintPath>C:\Users\lakma\Downloads\reportviewercore-master (1)\reportviewercore-master\Microsoft.ReportViewer.NETCore\bin\Debug\net6.0\Microsoft.ReportViewer.NETCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel">
+      <HintPath>C:\Users\lakma\Downloads\reportviewercore-master (1)\reportviewercore-master\Microsoft.ReportViewer.NETCore\bin\Debug\net6.0\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
